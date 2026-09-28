@@ -1,0 +1,423 @@
+[
+ {
+  "time": "0:00",
+  "key": 1.8,
+  "act": "I · Draft (pencil)",
+  "shot": "01.png",
+  "card": "Afilmory · AF · Aperture · Film · Memory",
+  "picture": "A blank warm page. A pencil strip of film draws itself left to right, sprocket holes and empty frames; the card writes on.",
+  "camera": "wide, locked, strip in the lower third",
+  "lines": {
+   "English": "",
+   "中文": ""
+  },
+  "sound": "pencil scratch along the strip, two soft piano notes",
+  "note": "connective"
+ },
+ {
+  "time": "0:03",
+  "key": 5.2,
+  "act": "I · Draft (pencil)",
+  "shot": "02.png",
+  "card": "Afilmory",
+  "picture": "AF is sketched in over construction lines, blinks awake with its aperture, looks at us, then glances back left.",
+  "camera": "wide, locked",
+  "lines": {
+   "English": "Hi, I'm AF. / I'm a roll of film: one frame per commit.",
+   "中文": "你好，我是 AF。/ 我是一卷胶片：每次提交，曝光一格。"
+  },
+  "sound": "shutter-blade blink tick, a rising two-note hello",
+  "note": "connective"
+ },
+ {
+  "time": "0:06",
+  "key": 8.0,
+  "act": "I · Draft (pencil)",
+  "shot": "03.png",
+  "card": "Afilmory",
+  "picture": "The film canister from the logo rolls in from the left; AF crouches, and the canister hops onto its back. The keepsake is set.",
+  "camera": "wide, locked",
+  "lines": {
+   "English": "",
+   "中文": ""
+  },
+  "sound": "rolling tin, a bonk, a happy chirp",
+  "note": "keepsake: the canister, paid off at 1:54"
+ },
+ {
+  "time": "0:09",
+  "key": 10.8,
+  "act": "I · Draft (pencil)",
+  "shot": "04.png",
+  "card": "A gallery for photographers · your photos, the way you shot them · Jun 5, 2025 · 14 commits",
+  "picture": "Day one: AF sprints along the strip firing the flash; 14 frames expose one by one, each a tiny sketched photo. Margin note under the first frame.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Day one: fourteen frames. / The first one just says init.",
+   "中文": "第一天，十四格。/ 第一格只写着 init。"
+  },
+  "sound": "14 shutter clicks, rising; flash whine",
+  "note": "f841d2ad feat: init, 2025-06-05, 14 commits that day"
+ },
+ {
+  "time": "0:12",
+  "key": 12.9,
+  "act": "I · Draft (pencil)",
+  "shot": "05.png",
+  "card": "Jun 6, 2025",
+  "picture": "AF walks on into Jun 6; the day mark and edge numbering (25-06-06 ▸ 11) write on.",
+  "camera": "follows right, slowing",
+  "lines": {
+   "English": "",
+   "中文": ""
+  },
+  "sound": "walking ticks",
+  "note": "Jun 6: 11 commits"
+ },
+ {
+  "time": "0:13.4",
+  "key": 16.6,
+  "act": "I · Draft (pencil)",
+  "shot": "06.png",
+  "card": "WebGL viewer · zoom into huge photos, tile by tile",
+  "picture": "AF points; focus brackets lock green; one frame lifts off the strip into a big print. Tile lines flash as it zooms 6x onto a tiny climber on the peak, still sharp.",
+  "camera": "holds; AF left, print right",
+  "lines": {
+   "English": "First I learned to look closely. / Really closely.",
+   "中文": "我先学会了看清楚。/ 非常、非常清楚。"
+  },
+  "sound": "focus-lock beep, a rising glissando with the zoom",
+  "note": "25521e2a tiled rendering, 8f2abb33 LOD, Jun 6. The 6x zoom is illustrative."
+ },
+ {
+  "time": "0:18",
+  "key": 20.4,
+  "act": "I · Draft (pencil)",
+  "shot": "07.png",
+  "card": "EXIF & Live Photos · every setting, and the moment around it",
+  "picture": "AF carries the print overhead through Jun 7 and Jun 8. It flips to its EXIF back, flips again, then wiggles with a LIVE badge.",
+  "camera": "follows right",
+  "lines": {
+   "English": "Every setting you shot with, / and the moment around it.",
+   "中文": "你用过的每个参数，/ 还有快门前后的那一瞬。"
+  },
+  "sound": "paper flip, a short shimmer for LIVE",
+  "note": "ExifPanel.tsx + LivePhoto.tsx are in f841d2ad. EXIF values shown are illustrative."
+ },
+ {
+  "time": "0:24.2",
+  "key": 25.0,
+  "act": "I · Draft (pencil)",
+  "shot": "08.png",
+  "card": "Jun 9, 2025 · 43 commits",
+  "picture": "A darkroom fixer tray sits in the strip at the seam. AF tosses the print in and hops in after it: splash, squeeze, dunk.",
+  "camera": "follows right; the ink seam enters from the right",
+  "lines": {
+   "English": "",
+   "中文": ""
+  },
+  "sound": "splash, bubbles, a low piano note",
+  "note": "the seam: 2eb3020d release: v0.1.0 (commit 43)"
+ },
+ {
+  "time": "0:26.1",
+  "key": 27.4,
+  "act": "II · Public (ink)",
+  "shot": "09.png",
+  "card": "v0.1.0 · open source",
+  "picture": "AF hops out right of the seam in black & white ink, shakes off like a dog, beams. The strip is solid black film from here on.",
+  "camera": "follows right",
+  "lines": {
+   "English": "Four days in, I went public. / Fixer makes a print permanent.",
+   "中文": "第四天，我开源了。/ 定影之后，照片就不会褪了。"
+  },
+  "sound": "string pad arrives with the ink; shake rattle",
+  "note": "2eb3020d, 2025-06-09"
+ },
+ {
+  "time": "0:28",
+  "key": 29.6,
+  "act": "II · Public (ink)",
+  "shot": "10.png",
+  "card": "Bring your own storage · S3 · GitHub · Eagle · local",
+  "picture": "An S3 bucket swings down and tips photos onto the strip; a GitHub repo folder follows. Local (#40) and Eagle (#122) folders wait further on.",
+  "camera": "follows right",
+  "lines": {
+   "English": "Keep your photos where they are. / I'll come to them.",
+   "中文": "照片放在哪都行，/ 我自己去取。"
+  },
+  "sound": "tin swing, photos pattering down",
+  "note": "S3 + GitHub storage in init; local #40; Eagle #122"
+ },
+ {
+  "time": "0:33.6",
+  "key": 37,
+  "act": "II · Public (ink)",
+  "card": "Explore map · see where every photo was taken",
+  "picture": "A hand-drawn map unfolds beside the strip; pins fly out of passing frames onto it.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "If a photo knows where it was taken, / it gets a pin.",
+   "中文": "照片记得在哪拍的，/ 我就在地图上插一根针。"
+  },
+  "sound": "marimba run, pin taps",
+  "note": "7310555c map explore #29, Jul 7, 2025",
+  "shot": "11.png"
+ },
+ {
+  "time": "0:40.2",
+  "key": 42,
+  "act": "II · Public (ink)",
+  "card": "HDR · brighter than white",
+  "picture": "AF stops and points; one frame lifts off and glows brighter than the paper; an HDR stamp lands.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Brighter than white? / On an HDR screen, yes.",
+   "中文": "比白还亮？/ 在 HDR 屏幕上，可以。"
+  },
+  "sound": "rising glide, bright bells",
+  "note": "6ec545a6 #52, Jul 9, 2025",
+  "shot": "12.png"
+ },
+ {
+  "time": "0:44.4",
+  "key": 47,
+  "act": "II · Public (ink)",
+  "card": "(HDR card fades)",
+  "picture": "Frames sorted into piles by camera; the piles topple and AF trips over them, face-plants, sees stars, gets up. A second jam puff further on.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Not every idea makes it. / I trip, get up, and keep going.",
+   "中文": "不是每个点子都能留下。/ 摔一跤，爬起来，接着走。"
+  },
+  "sound": "falling glide, thud, dizzy bells",
+  "note": "21a6743c #72 → 001506ee Revert (Aug 4); 444468b8 → d98049de Revert (Sep 21). Camera names on the piles are illustrative.",
+  "shot": "13.png"
+ },
+ {
+  "time": "0:49.6",
+  "key": 51.5,
+  "act": "II · Public (ink)",
+  "card": "Search · find any photo by place, camera or tag",
+  "picture": "A search box types 'tokyo'; matching frames light up blue.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Then search, / so you can find the one you mean.",
+   "中文": "然后是搜索，/ 一下找到你要的那张。"
+  },
+  "sound": "typing ticks",
+  "note": "6c940658 #115, Oct 16, 2025. Query is illustrative.",
+  "shot": "14.png"
+ },
+ {
+  "time": "0:53.6",
+  "key": 55.6,
+  "act": "II · Public (ink)",
+  "card": "(no card)",
+  "picture": "AF shoots one frame; a press stamped build:manifest rolls back over the whole strip, then a red 'deploy' stamp lands. AF sighs.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Back then I was a static site. / One new photo, and everything got rebuilt.",
+   "中文": "那时我还是个静态站点。/ 加一张照片，就要整站重建、重新部署。"
+  },
+  "sound": "press rumble, stamp thud",
+  "note": "pnpm build:manifest (README)",
+  "shot": "15.png"
+ },
+ {
+  "time": "0:58.6",
+  "key": 62.8,
+  "act": "III · Rebuild (blueprint)",
+  "card": "Server + dashboard · upload, sync and edit live, no rebuild",
+  "picture": "Blueprint paper takes over. AF draws a darkroom (server, red safelight) and a desk (dashboard); a title changes Untitled → Kyoto dawn and the strip updates at once.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "So I built myself a darkroom. / Edit a photo, and it's live.",
+   "中文": "于是我给自己盖了间暗房。/ 改一张照片，马上生效。"
+  },
+  "sound": "marimba arpeggios, a chord on the seam",
+  "note": "bb308820, 223e90d4, #135, #136 (Oct 26–31, 2025). The photo title is illustrative.",
+  "shot": "16.png"
+ },
+ {
+  "time": "1:05.6",
+  "key": 68.4,
+  "act": "III · Rebuild (blueprint)",
+  "card": "afilmory.art · sign up, and your gallery is live",
+  "picture": "A row of doors grows beside the darkroom, each with a nameplate; canisters walk in; AF waves.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Then I opened the doors. / Anyone can start a gallery here.",
+   "中文": "然后我把门打开了。/ 现在谁都能在这开一个相册。"
+  },
+  "sound": "door chimes",
+  "note": "bc4cd362 tenants (Nov 6), 26657788 landing (Nov 11). Names on doors are illustrative.",
+  "shot": "17.png"
+ },
+ {
+  "time": "1:10.8",
+  "key": 72.2,
+  "act": "III · Rebuild (blueprint)",
+  "card": "Or self-host · the same code, in Docker",
+  "picture": "A box labelled Docker with a tiny darkroom inside; AF pats it.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Rather run it yourself? / Same code, one Docker image.",
+   "中文": "想自己部署？/ 同一套代码，一个 Docker 镜像。"
+  },
+  "sound": "soft thud, bell",
+  "note": "017cd763 Dockerfile (Nov 9)",
+  "shot": "18.png"
+ },
+ {
+  "time": "1:15.2",
+  "key": 77,
+  "act": "III · Rebuild (blueprint)",
+  "card": "(custom-domain street sign passes)",
+  "picture": "The strip packs with slivers of frames: November's run. A green street sign 'photos.lea.me' passes.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "November alone: / two hundred and one frames.",
+   "中文": "光是十一月，/ 就有两百零一格。"
+  },
+  "sound": "dense shutter clicks",
+  "note": "201 commits in Nov 2025; a1710924 custom domains (Nov 20). Domain is illustrative.",
+  "shot": "19.png"
+ },
+ {
+  "time": "1:19",
+  "key": 81.5,
+  "act": "III · Rebuild (blueprint)",
+  "card": "(date line only)",
+  "picture": "Winter: snow of grain, mostly blank leader, a few lonely frames; AF walks slowly, half asleep.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Then a quiet winter. / Forty-five frames in five months. / I kept walking.",
+   "中文": "然后是安静的冬天。/ 五个月，四十五格。/ 我没有停下。"
+  },
+  "sound": "music box and tape hiss",
+  "note": "Jan–May 2026: 17+9+10+7+2 = 45 commits",
+  "shot": "20.png"
+ },
+ {
+  "time": "1:26.2",
+  "key": 88.5,
+  "act": "IV · Pocket (Liquid Glass)",
+  "card": "iOS app · your gallery, on your iPhone",
+  "picture": "The page turns to Liquid Glass over colour blur; a cardboard phone costume (RN) drops onto AF.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Summer. I wanted to fit in your pocket.",
+   "中文": "夏天，我想住进你的口袋。"
+  },
+  "sound": "glassy bells, light beat",
+  "note": "e6302a45 first iPhone app, React Native (Jul 29, 2026)",
+  "shot": "21.png"
+ },
+ {
+  "time": "1:30",
+  "key": 92,
+  "act": "IV · Pocket (Liquid Glass)",
+  "card": "The busiest day · 34 commits, Aug 1, 2026",
+  "picture": "AF sprints in the costume, flash firing on every frame: 34 in a row.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Thirty-four frames in one day. / My busiest ever.",
+   "中文": "一天三十四格，/ 最忙的一天。"
+  },
+  "sound": "shutter rattle over a kick pulse",
+  "note": "2026-08-01: 34 commits",
+  "shot": "22.png"
+ },
+ {
+  "time": "1:35",
+  "key": 99.3,
+  "act": "IV · Pocket (Liquid Glass)",
+  "card": "Native Swift · rebuilt from scratch for iPhone",
+  "picture": "AF squirms in the costume, grabs it and tears it in two; the halves fly off and a native glass AF shines.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Twelve days in, I tore it down / and rebuilt it natively in Swift.",
+   "中文": "十二天后，我把它拆了，/ 用 Swift 原生重写。"
+  },
+  "sound": "tape stop, rip, clean rise",
+  "note": "8f6468c7 #258 (Aug 10, 2026). The costume is a metaphor for the React Native app.",
+  "shot": "23.png"
+ },
+ {
+  "time": "1:41.6",
+  "key": 105.8,
+  "act": "IV · Pocket (Liquid Glass)",
+  "card": "Upload, widgets, notifications · public beta on TestFlight",
+  "picture": "Glass cards pop up beside the strip: an upload progress pill, a Photo of the day widget, a comment notification.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "Upload from your phone. / A photo of the day on your home screen.",
+   "中文": "在手机上传照片，/ 桌面上每天一张。"
+  },
+  "sound": "three pop blips",
+  "note": "7cc409e4 upload, #275 widget, cd984710 TestFlight. Names and counts in the cards are illustrative.",
+  "shot": "24.png"
+ },
+ {
+  "time": "1:48.4",
+  "key": 110.5,
+  "act": "V · Developed (colour)",
+  "card": "HDR, in colour · WebGPU + JPEG gain maps",
+  "picture": "A rainbow seam; the strip turns to real film with glowing colour frames; AF turns Afilmory blue and throws its arms up.",
+  "camera": "follows right, moving average, no cuts",
+  "lines": {
+   "English": "And now colour, / as bright as you shot it.",
+   "中文": "现在是彩色的，/ 和你拍下时一样亮。"
+  },
+  "sound": "key lifts to E, bright arpeggio",
+  "note": "215576e7 (Sep 8, 2026); 4e16a747 iOS 1.5 (Sep 17)",
+  "shot": "25.png"
+ },
+ {
+  "time": "1:54",
+  "key": 118.5,
+  "act": "V · Ending",
+  "card": "837 commits · Jun 5, 2025 → Sep 26, 2026",
+  "picture": "Pull back until the roll is a line; it is cut into month strips and laid out as a contact sheet, one cell per commit. Jun 2025, Nov 2025 and Aug 2026 are circled. AF walks on and the canister pops: the roll is developed.",
+  "camera": "pull back, then locked",
+  "lines": {
+   "English": "Eight hundred thirty-seven frames. / One roll. Developed.",
+   "中文": "八百三十七格，/ 一卷，冲洗好了。"
+  },
+  "sound": "AF's motif returns in E; sparkle on the pop",
+  "note": "timeline.json monthly counts (main, first-parent)",
+  "shot": "26.png"
+ },
+ {
+  "time": "2:00",
+  "key": 121.6,
+  "act": "V · Ending",
+  "card": "(card holds)",
+  "picture": "AF signs under the sheet.",
+  "camera": "pull back, then locked",
+  "lines": {
+   "English": "Shot by AF, for your photos.",
+   "中文": "由 AF 拍摄，为你的照片。"
+  },
+  "sound": "sustained pad",
+  "note": "connective",
+  "shot": "27.png"
+ },
+ {
+  "time": "2:02.8",
+  "key": 127,
+  "act": "V · Ending",
+  "card": "Afilmory · your photos, developed.",
+  "picture": "Closing card: AF peeks over the name and blinks its aperture; a search box types afilmory.art; github.com/Afilmory/afilmory below. This frame is the cover.",
+  "camera": "pull back, then locked",
+  "lines": {
+   "English": "",
+   "中文": ""
+  },
+  "sound": "final chord, one shutter click",
+  "note": "closing frame = cover",
+  "shot": "28.png",
+  "dur": 5.2
+ }
+]

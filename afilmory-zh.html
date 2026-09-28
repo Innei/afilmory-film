@@ -1,0 +1,35 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Afilmory: One Roll (中文)</title>
+<style>
+body{margin:0;background:#1d1b19;color:#d9d3c7;font:13px -apple-system,system-ui,sans-serif;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:100vh;gap:10px}
+canvas{max-width:96vw;max-height:84vh;object-fit:contain;box-shadow:0 0 0 1px #ffffff14}
+.bar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:6px 12px}
+.bar button{font:inherit;color:#f1ece2;background:#ffffff12;border:1px solid #ffffff2a;border-radius:4px;padding:6px 12px;cursor:pointer}
+#scrub{width:min(46vw,520px);accent-color:#c9962f}
+#info{font:11px ui-monospace,Menlo,monospace;color:#a39c90}
+</style>
+<canvas id="c"></canvas>
+<script>window.FILM_LANG = "zh";</script>
+<script src="core.js"></script><script src="studio-ui.js"></script><script src="studio.js"></script><script src="cels.js"></script><script src="materials.js"></script>
+<script src="af-cast.js"></script><script src="af-data.js"></script><script src="af-world.js"></script><script src="af-props.js"></script><script src="af-route.js"></script><script src="af-finale.js"></script><script src="af-score.js"></script>
+<script>
+'use strict';
+/* Brief
+Subject: AF, the camera from the Afilmory logo, walks a roll of film that is the repo's history.
+  One continuous shot, AF only moves right, one frame per commit. OUTLINE.md holds the whole route.
+Format: 16:9, 1920x1080, 24 fps preview, 60 fps delivery. ?lang=zh for the Chinese cut.
+*/
+const SCENES = [
+  ['page', 0, T1.appear], ['hello', T1.appear, T1.canister], ['canister', T1.canister, T1.shoot], ['day-one', T1.shoot, T1.walk6],
+  ['to-jun-6', T1.walk6, T1.print], ['webgl-viewer', T1.print, T1.carry], ['exif-live', T1.carry, T1.tray], ['fixer', T1.tray, T1.inked],
+  ['v0.1.0', T1.inked, T1.storage], ['storage', T1.storage, 33.6], ['map', 33.6, 40.2], ['hdr', 40.2, 44.4], ['stumble', 44.4, 49.6],
+  ['search', 49.6, 53.6], ['static-site', 53.6, 58.6], ['server', 58.6, 65.6], ['afilmory.art', 65.6, 70.8], ['docker', 70.8, 75.2],
+  ['november', 75.2, 79], ['winter', 79, 86.2], ['pocket', 86.2, 90], ['busiest-day', 90, 95], ['native-swift', 95, 101.6],
+  ['phone-features', 101.6, 108.4], ['colour', 108.4, JOURNEY_END],
+];
+const ENDING = [['contact-sheet', JOURNEY_END, FIN.sign], ['signature', FIN.sign, FIN.card], ['closing-card', FIN.card, FIN.end]];
+const TIMELINE = [...SCENES.map(([name, a, b]) => ({name, dur: b - a, fn: (c, tau) => journey(c, a + tau)})), ...ENDING.map(([name, a, b]) => ({name, dur: b - a, fn: (c, tau) => finale(c, a + tau)}))];
+const qfps = +new URLSearchParams(location.search).get('fps');
+defineFilm({palette: {...PALETTES.pencilMinimal, paper: AFC.paper}, format: {ar: '16:9', width: 1920}, fps: [12, 24, 60].includes(qfps) ? qfps : 24, timeline: TIMELINE, score: afScore});
+</script>

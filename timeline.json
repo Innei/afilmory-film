@@ -1,0 +1,4052 @@
+{
+ "repo": "/Users/innei/git/innei-repo/afilmory",
+ "first_day": "2025-06-05",
+ "last_day": "2026-09-26",
+ "total_commits": 837,
+ "active_days": 185,
+ "busiest_days": [
+  {
+   "date": "2026-08-01",
+   "commits": 34,
+   "total": 705
+  },
+  {
+   "date": "2026-07-30",
+   "commits": 28,
+   "total": 665
+  },
+  {
+   "date": "2025-11-30",
+   "commits": 22,
+   "total": 503
+  },
+  {
+   "date": "2025-06-11",
+   "commits": 17,
+   "total": 76
+  },
+  {
+   "date": "2026-08-06",
+   "commits": 17,
+   "total": 757
+  }
+ ],
+ "author_names_upper_bound": 29,
+ "days": [
+  {
+   "date": "2025-06-05",
+   "commits": 14,
+   "total": 14
+  },
+  {
+   "date": "2025-06-06",
+   "commits": 11,
+   "total": 25
+  },
+  {
+   "date": "2025-06-07",
+   "commits": 3,
+   "total": 28
+  },
+  {
+   "date": "2025-06-08",
+   "commits": 12,
+   "total": 40
+  },
+  {
+   "date": "2025-06-09",
+   "commits": 6,
+   "total": 46
+  },
+  {
+   "date": "2025-06-10",
+   "commits": 13,
+   "total": 59
+  },
+  {
+   "date": "2025-06-11",
+   "commits": 17,
+   "total": 76
+  },
+  {
+   "date": "2025-06-12",
+   "commits": 9,
+   "total": 85
+  },
+  {
+   "date": "2025-06-13",
+   "commits": 16,
+   "total": 101
+  },
+  {
+   "date": "2025-06-14",
+   "commits": 6,
+   "total": 107
+  },
+  {
+   "date": "2025-06-15",
+   "commits": 3,
+   "total": 110
+  },
+  {
+   "date": "2025-06-17",
+   "commits": 4,
+   "total": 114
+  },
+  {
+   "date": "2025-06-18",
+   "commits": 1,
+   "total": 115
+  },
+  {
+   "date": "2025-06-19",
+   "commits": 4,
+   "total": 119
+  },
+  {
+   "date": "2025-06-20",
+   "commits": 1,
+   "total": 120
+  },
+  {
+   "date": "2025-06-21",
+   "commits": 1,
+   "total": 121
+  },
+  {
+   "date": "2025-06-22",
+   "commits": 4,
+   "total": 125
+  },
+  {
+   "date": "2025-06-23",
+   "commits": 12,
+   "total": 137
+  },
+  {
+   "date": "2025-06-24",
+   "commits": 3,
+   "total": 140
+  },
+  {
+   "date": "2025-06-25",
+   "commits": 5,
+   "total": 145
+  },
+  {
+   "date": "2025-06-26",
+   "commits": 9,
+   "total": 154
+  },
+  {
+   "date": "2025-06-27",
+   "commits": 8,
+   "total": 162
+  },
+  {
+   "date": "2025-06-28",
+   "commits": 12,
+   "total": 174
+  },
+  {
+   "date": "2025-06-29",
+   "commits": 8,
+   "total": 182
+  },
+  {
+   "date": "2025-06-30",
+   "commits": 1,
+   "total": 183
+  },
+  {
+   "date": "2025-07-01",
+   "commits": 1,
+   "total": 184
+  },
+  {
+   "date": "2025-07-02",
+   "commits": 2,
+   "total": 186
+  },
+  {
+   "date": "2025-07-03",
+   "commits": 1,
+   "total": 187
+  },
+  {
+   "date": "2025-07-05",
+   "commits": 3,
+   "total": 190
+  },
+  {
+   "date": "2025-07-07",
+   "commits": 7,
+   "total": 197
+  },
+  {
+   "date": "2025-07-09",
+   "commits": 3,
+   "total": 200
+  },
+  {
+   "date": "2025-07-10",
+   "commits": 3,
+   "total": 203
+  },
+  {
+   "date": "2025-07-11",
+   "commits": 4,
+   "total": 207
+  },
+  {
+   "date": "2025-07-12",
+   "commits": 2,
+   "total": 209
+  },
+  {
+   "date": "2025-07-13",
+   "commits": 1,
+   "total": 210
+  },
+  {
+   "date": "2025-07-14",
+   "commits": 1,
+   "total": 211
+  },
+  {
+   "date": "2025-07-15",
+   "commits": 5,
+   "total": 216
+  },
+  {
+   "date": "2025-07-17",
+   "commits": 1,
+   "total": 217
+  },
+  {
+   "date": "2025-07-20",
+   "commits": 1,
+   "total": 218
+  },
+  {
+   "date": "2025-07-28",
+   "commits": 2,
+   "total": 220
+  },
+  {
+   "date": "2025-07-31",
+   "commits": 1,
+   "total": 221
+  },
+  {
+   "date": "2025-08-04",
+   "commits": 3,
+   "total": 224
+  },
+  {
+   "date": "2025-08-07",
+   "commits": 1,
+   "total": 225
+  },
+  {
+   "date": "2025-08-10",
+   "commits": 2,
+   "total": 227
+  },
+  {
+   "date": "2025-08-13",
+   "commits": 1,
+   "total": 228
+  },
+  {
+   "date": "2025-08-21",
+   "commits": 1,
+   "total": 229
+  },
+  {
+   "date": "2025-08-29",
+   "commits": 2,
+   "total": 231
+  },
+  {
+   "date": "2025-08-31",
+   "commits": 5,
+   "total": 236
+  },
+  {
+   "date": "2025-09-01",
+   "commits": 1,
+   "total": 237
+  },
+  {
+   "date": "2025-09-08",
+   "commits": 2,
+   "total": 239
+  },
+  {
+   "date": "2025-09-11",
+   "commits": 1,
+   "total": 240
+  },
+  {
+   "date": "2025-09-13",
+   "commits": 3,
+   "total": 243
+  },
+  {
+   "date": "2025-09-14",
+   "commits": 1,
+   "total": 244
+  },
+  {
+   "date": "2025-09-15",
+   "commits": 2,
+   "total": 246
+  },
+  {
+   "date": "2025-09-21",
+   "commits": 4,
+   "total": 250
+  },
+  {
+   "date": "2025-09-22",
+   "commits": 1,
+   "total": 251
+  },
+  {
+   "date": "2025-09-24",
+   "commits": 6,
+   "total": 257
+  },
+  {
+   "date": "2025-09-30",
+   "commits": 1,
+   "total": 258
+  },
+  {
+   "date": "2025-10-02",
+   "commits": 1,
+   "total": 259
+  },
+  {
+   "date": "2025-10-08",
+   "commits": 1,
+   "total": 260
+  },
+  {
+   "date": "2025-10-13",
+   "commits": 1,
+   "total": 261
+  },
+  {
+   "date": "2025-10-16",
+   "commits": 3,
+   "total": 264
+  },
+  {
+   "date": "2025-10-19",
+   "commits": 2,
+   "total": 266
+  },
+  {
+   "date": "2025-10-20",
+   "commits": 7,
+   "total": 273
+  },
+  {
+   "date": "2025-10-23",
+   "commits": 2,
+   "total": 275
+  },
+  {
+   "date": "2025-10-24",
+   "commits": 2,
+   "total": 277
+  },
+  {
+   "date": "2025-10-25",
+   "commits": 5,
+   "total": 282
+  },
+  {
+   "date": "2025-10-26",
+   "commits": 5,
+   "total": 287
+  },
+  {
+   "date": "2025-10-27",
+   "commits": 4,
+   "total": 291
+  },
+  {
+   "date": "2025-10-28",
+   "commits": 6,
+   "total": 297
+  },
+  {
+   "date": "2025-10-29",
+   "commits": 1,
+   "total": 298
+  },
+  {
+   "date": "2025-10-30",
+   "commits": 1,
+   "total": 299
+  },
+  {
+   "date": "2025-10-31",
+   "commits": 3,
+   "total": 302
+  },
+  {
+   "date": "2025-11-01",
+   "commits": 3,
+   "total": 305
+  },
+  {
+   "date": "2025-11-02",
+   "commits": 3,
+   "total": 308
+  },
+  {
+   "date": "2025-11-03",
+   "commits": 6,
+   "total": 314
+  },
+  {
+   "date": "2025-11-06",
+   "commits": 3,
+   "total": 317
+  },
+  {
+   "date": "2025-11-07",
+   "commits": 2,
+   "total": 319
+  },
+  {
+   "date": "2025-11-08",
+   "commits": 11,
+   "total": 330
+  },
+  {
+   "date": "2025-11-09",
+   "commits": 4,
+   "total": 334
+  },
+  {
+   "date": "2025-11-10",
+   "commits": 8,
+   "total": 342
+  },
+  {
+   "date": "2025-11-11",
+   "commits": 16,
+   "total": 358
+  },
+  {
+   "date": "2025-11-12",
+   "commits": 13,
+   "total": 371
+  },
+  {
+   "date": "2025-11-13",
+   "commits": 6,
+   "total": 377
+  },
+  {
+   "date": "2025-11-14",
+   "commits": 14,
+   "total": 391
+  },
+  {
+   "date": "2025-11-15",
+   "commits": 3,
+   "total": 394
+  },
+  {
+   "date": "2025-11-16",
+   "commits": 7,
+   "total": 401
+  },
+  {
+   "date": "2025-11-17",
+   "commits": 9,
+   "total": 410
+  },
+  {
+   "date": "2025-11-18",
+   "commits": 8,
+   "total": 418
+  },
+  {
+   "date": "2025-11-19",
+   "commits": 10,
+   "total": 428
+  },
+  {
+   "date": "2025-11-20",
+   "commits": 5,
+   "total": 433
+  },
+  {
+   "date": "2025-11-21",
+   "commits": 2,
+   "total": 435
+  },
+  {
+   "date": "2025-11-22",
+   "commits": 1,
+   "total": 436
+  },
+  {
+   "date": "2025-11-23",
+   "commits": 11,
+   "total": 447
+  },
+  {
+   "date": "2025-11-24",
+   "commits": 12,
+   "total": 459
+  },
+  {
+   "date": "2025-11-25",
+   "commits": 6,
+   "total": 465
+  },
+  {
+   "date": "2025-11-26",
+   "commits": 2,
+   "total": 467
+  },
+  {
+   "date": "2025-11-27",
+   "commits": 10,
+   "total": 477
+  },
+  {
+   "date": "2025-11-29",
+   "commits": 4,
+   "total": 481
+  },
+  {
+   "date": "2025-11-30",
+   "commits": 22,
+   "total": 503
+  },
+  {
+   "date": "2025-12-01",
+   "commits": 3,
+   "total": 506
+  },
+  {
+   "date": "2025-12-03",
+   "commits": 5,
+   "total": 511
+  },
+  {
+   "date": "2025-12-04",
+   "commits": 3,
+   "total": 514
+  },
+  {
+   "date": "2025-12-05",
+   "commits": 14,
+   "total": 528
+  },
+  {
+   "date": "2025-12-06",
+   "commits": 9,
+   "total": 537
+  },
+  {
+   "date": "2025-12-09",
+   "commits": 1,
+   "total": 538
+  },
+  {
+   "date": "2025-12-10",
+   "commits": 3,
+   "total": 541
+  },
+  {
+   "date": "2025-12-14",
+   "commits": 1,
+   "total": 542
+  },
+  {
+   "date": "2025-12-16",
+   "commits": 1,
+   "total": 543
+  },
+  {
+   "date": "2025-12-23",
+   "commits": 1,
+   "total": 544
+  },
+  {
+   "date": "2025-12-29",
+   "commits": 1,
+   "total": 545
+  },
+  {
+   "date": "2026-01-04",
+   "commits": 1,
+   "total": 546
+  },
+  {
+   "date": "2026-01-05",
+   "commits": 3,
+   "total": 549
+  },
+  {
+   "date": "2026-01-06",
+   "commits": 2,
+   "total": 551
+  },
+  {
+   "date": "2026-01-07",
+   "commits": 1,
+   "total": 552
+  },
+  {
+   "date": "2026-01-10",
+   "commits": 4,
+   "total": 556
+  },
+  {
+   "date": "2026-01-11",
+   "commits": 2,
+   "total": 558
+  },
+  {
+   "date": "2026-01-14",
+   "commits": 2,
+   "total": 560
+  },
+  {
+   "date": "2026-01-18",
+   "commits": 1,
+   "total": 561
+  },
+  {
+   "date": "2026-01-22",
+   "commits": 1,
+   "total": 562
+  },
+  {
+   "date": "2026-02-04",
+   "commits": 2,
+   "total": 564
+  },
+  {
+   "date": "2026-02-13",
+   "commits": 4,
+   "total": 568
+  },
+  {
+   "date": "2026-02-23",
+   "commits": 2,
+   "total": 570
+  },
+  {
+   "date": "2026-02-26",
+   "commits": 1,
+   "total": 571
+  },
+  {
+   "date": "2026-03-15",
+   "commits": 2,
+   "total": 573
+  },
+  {
+   "date": "2026-03-16",
+   "commits": 1,
+   "total": 574
+  },
+  {
+   "date": "2026-03-18",
+   "commits": 2,
+   "total": 576
+  },
+  {
+   "date": "2026-03-23",
+   "commits": 2,
+   "total": 578
+  },
+  {
+   "date": "2026-03-24",
+   "commits": 1,
+   "total": 579
+  },
+  {
+   "date": "2026-03-29",
+   "commits": 2,
+   "total": 581
+  },
+  {
+   "date": "2026-04-08",
+   "commits": 1,
+   "total": 582
+  },
+  {
+   "date": "2026-04-18",
+   "commits": 1,
+   "total": 583
+  },
+  {
+   "date": "2026-04-25",
+   "commits": 1,
+   "total": 584
+  },
+  {
+   "date": "2026-04-26",
+   "commits": 4,
+   "total": 588
+  },
+  {
+   "date": "2026-05-16",
+   "commits": 1,
+   "total": 589
+  },
+  {
+   "date": "2026-05-21",
+   "commits": 1,
+   "total": 590
+  },
+  {
+   "date": "2026-06-02",
+   "commits": 3,
+   "total": 593
+  },
+  {
+   "date": "2026-06-03",
+   "commits": 13,
+   "total": 606
+  },
+  {
+   "date": "2026-06-05",
+   "commits": 1,
+   "total": 607
+  },
+  {
+   "date": "2026-06-07",
+   "commits": 1,
+   "total": 608
+  },
+  {
+   "date": "2026-06-11",
+   "commits": 6,
+   "total": 614
+  },
+  {
+   "date": "2026-06-15",
+   "commits": 1,
+   "total": 615
+  },
+  {
+   "date": "2026-06-16",
+   "commits": 6,
+   "total": 621
+  },
+  {
+   "date": "2026-06-17",
+   "commits": 1,
+   "total": 622
+  },
+  {
+   "date": "2026-06-19",
+   "commits": 1,
+   "total": 623
+  },
+  {
+   "date": "2026-06-29",
+   "commits": 2,
+   "total": 625
+  },
+  {
+   "date": "2026-07-13",
+   "commits": 5,
+   "total": 630
+  },
+  {
+   "date": "2026-07-19",
+   "commits": 1,
+   "total": 631
+  },
+  {
+   "date": "2026-07-29",
+   "commits": 6,
+   "total": 637
+  },
+  {
+   "date": "2026-07-30",
+   "commits": 28,
+   "total": 665
+  },
+  {
+   "date": "2026-07-31",
+   "commits": 6,
+   "total": 671
+  },
+  {
+   "date": "2026-08-01",
+   "commits": 34,
+   "total": 705
+  },
+  {
+   "date": "2026-08-02",
+   "commits": 13,
+   "total": 718
+  },
+  {
+   "date": "2026-08-03",
+   "commits": 10,
+   "total": 728
+  },
+  {
+   "date": "2026-08-04",
+   "commits": 10,
+   "total": 738
+  },
+  {
+   "date": "2026-08-05",
+   "commits": 2,
+   "total": 740
+  },
+  {
+   "date": "2026-08-06",
+   "commits": 17,
+   "total": 757
+  },
+  {
+   "date": "2026-08-07",
+   "commits": 3,
+   "total": 760
+  },
+  {
+   "date": "2026-08-08",
+   "commits": 1,
+   "total": 761
+  },
+  {
+   "date": "2026-08-10",
+   "commits": 1,
+   "total": 762
+  },
+  {
+   "date": "2026-08-11",
+   "commits": 2,
+   "total": 764
+  },
+  {
+   "date": "2026-08-12",
+   "commits": 1,
+   "total": 765
+  },
+  {
+   "date": "2026-08-13",
+   "commits": 3,
+   "total": 768
+  },
+  {
+   "date": "2026-08-14",
+   "commits": 2,
+   "total": 770
+  },
+  {
+   "date": "2026-08-16",
+   "commits": 1,
+   "total": 771
+  },
+  {
+   "date": "2026-08-18",
+   "commits": 9,
+   "total": 780
+  },
+  {
+   "date": "2026-08-19",
+   "commits": 10,
+   "total": 790
+  },
+  {
+   "date": "2026-08-21",
+   "commits": 3,
+   "total": 793
+  },
+  {
+   "date": "2026-08-22",
+   "commits": 2,
+   "total": 795
+  },
+  {
+   "date": "2026-08-23",
+   "commits": 5,
+   "total": 800
+  },
+  {
+   "date": "2026-08-25",
+   "commits": 1,
+   "total": 801
+  },
+  {
+   "date": "2026-08-26",
+   "commits": 1,
+   "total": 802
+  },
+  {
+   "date": "2026-08-27",
+   "commits": 1,
+   "total": 803
+  },
+  {
+   "date": "2026-08-28",
+   "commits": 7,
+   "total": 810
+  },
+  {
+   "date": "2026-08-29",
+   "commits": 7,
+   "total": 817
+  },
+  {
+   "date": "2026-08-30",
+   "commits": 1,
+   "total": 818
+  },
+  {
+   "date": "2026-09-01",
+   "commits": 4,
+   "total": 822
+  },
+  {
+   "date": "2026-09-02",
+   "commits": 1,
+   "total": 823
+  },
+  {
+   "date": "2026-09-03",
+   "commits": 2,
+   "total": 825
+  },
+  {
+   "date": "2026-09-06",
+   "commits": 2,
+   "total": 827
+  },
+  {
+   "date": "2026-09-08",
+   "commits": 5,
+   "total": 832
+  },
+  {
+   "date": "2026-09-12",
+   "commits": 1,
+   "total": 833
+  },
+  {
+   "date": "2026-09-17",
+   "commits": 2,
+   "total": 835
+  },
+  {
+   "date": "2026-09-19",
+   "commits": 1,
+   "total": 836
+  },
+  {
+   "date": "2026-09-26",
+   "commits": 1,
+   "total": 837
+  }
+ ],
+ "tags": [
+  {
+   "tag": "v0.1.0",
+   "date": "2025-06-09"
+  },
+  {
+   "tag": "v0.0.2",
+   "date": "2026-04-26"
+  }
+ ],
+ "first_commit": {
+  "hash": "f841d2ad",
+  "date": "2025-06-05",
+  "subject": "feat: init"
+ },
+ "feature_commits": [
+  {
+   "date": "2025-06-05",
+   "hash": "f841d2ad",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: init",
+   "pr": null
+  },
+  {
+   "date": "2025-06-05",
+   "hash": "238cbb71",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement dynamic title and description in HTML template",
+   "pr": null
+  },
+  {
+   "date": "2025-06-05",
+   "hash": "0fb4cd4c",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance font glyph extraction and SVG text rendering",
+   "pr": null
+  },
+  {
+   "date": "2025-06-05",
+   "hash": "15a928b4",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update loading messages for image and video conversion",
+   "pr": null
+  },
+  {
+   "date": "2025-06-05",
+   "hash": "0b6160f6",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add DateRangeIndicator component and integrate into MasonryRoot",
+   "pr": null
+  },
+  {
+   "date": "2025-06-05",
+   "hash": "47f54ad1",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance gallery settings with adjustable column layout",
+   "pr": null
+  },
+  {
+   "date": "2025-06-05",
+   "hash": "f27915bb",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance GalleryThumbnail and PhotoViewer components for better responsiveness",
+   "pr": null
+  },
+  {
+   "date": "2025-06-05",
+   "hash": "e5597cdb",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: integrate react-freeze for improved UI performance",
+   "pr": null
+  },
+  {
+   "date": "2025-06-06",
+   "hash": "25521e2a",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance ProgressiveImage and WebGLImageViewerEngine with memory management and tiled rendering",
+   "pr": null
+  },
+  {
+   "date": "2025-06-06",
+   "hash": "0c9784ac",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance DebugInfo component with collapsible sections and improved layout",
+   "pr": null
+  },
+  {
+   "date": "2025-06-06",
+   "hash": "08a58b44",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance WebGLImageViewerEngine with drag optimization and tile management",
+   "pr": null
+  },
+  {
+   "date": "2025-06-06",
+   "hash": "8f2abb33",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement on-demand LOD management in WebGLImageViewerEngine",
+   "pr": null
+  },
+  {
+   "date": "2025-06-06",
+   "hash": "3a64e621",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance device detection and performance estimation in WebGLImageViewerEngine",
+   "pr": null
+  },
+  {
+   "date": "2025-06-06",
+   "hash": "3a0153d5",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance WebGL image viewer with new engine and improved LOD management",
+   "pr": null
+  },
+  {
+   "date": "2025-06-07",
+   "hash": "b990bd5f",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance ProgressiveImage with mobile support and improved image handling",
+   "pr": null
+  },
+  {
+   "date": "2025-06-07",
+   "hash": "a76462fa",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance ProgressiveImage with high-resolution rendering state management",
+   "pr": null
+  },
+  {
+   "date": "2025-06-08",
+   "hash": "c03fdc73",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add ssr for og gerenation",
+   "pr": null
+  },
+  {
+   "date": "2025-06-08",
+   "hash": "588c9ab5",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: cf pages",
+   "pr": null
+  },
+  {
+   "date": "2025-06-08",
+   "hash": "67a948dd",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: introduce @photo-gallery/data package for centralized photo management",
+   "pr": null
+  },
+  {
+   "date": "2025-06-08",
+   "hash": "acc8a376",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance caching and title management",
+   "pr": null
+  },
+  {
+   "date": "2025-06-09",
+   "hash": "caa09110",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add SlidingNumber component and integrate scale indicator in ProgressiveImage",
+   "pr": null
+  },
+  {
+   "date": "2025-06-09",
+   "hash": "c00d1b9d",
+   "type": "feat",
+   "scope": "webgl-viewer",
+   "subject": "feat(webgl-viewer): integrate Vite for build process and add TypeScript configuration",
+   "pr": null
+  },
+  {
+   "date": "2025-06-09",
+   "hash": "bfeb0685",
+   "type": "feat",
+   "scope": "web",
+   "subject": "feat(web): update HTML template and integrate vite-plugin-html for dynamic content injection",
+   "pr": null
+  },
+  {
+   "date": "2025-06-10",
+   "hash": "9630aa9a",
+   "type": "feat",
+   "scope": "og",
+   "subject": "feat(og): enhance image generation with new font and layout adjustments",
+   "pr": null
+  },
+  {
+   "date": "2025-06-10",
+   "hash": "7f0eb717",
+   "type": "feat",
+   "scope": "docker",
+   "subject": "feat(docker): add Dockerfile and .dockerignore for Next.js app deployment",
+   "pr": null
+  },
+  {
+   "date": "2025-06-10",
+   "hash": "3632286e",
+   "type": "feat",
+   "scope": "package",
+   "subject": "feat(package): add build:manifest script to package.json for manifest generation",
+   "pr": null
+  },
+  {
+   "date": "2025-06-10",
+   "hash": "3f19e6be",
+   "type": "feat",
+   "scope": "docker",
+   "subject": "feat(docker): add Dockerfile for Next.js app in pnpm monorepo",
+   "pr": null
+  },
+  {
+   "date": "2025-06-11",
+   "hash": "a7e4bce1",
+   "type": "feat",
+   "scope": "builder",
+   "subject": "feat(builder): enhance configuration logging and update dependencies",
+   "pr": null
+  },
+  {
+   "date": "2025-06-11",
+   "hash": "ccfb3130",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add avatar support and update dependencies",
+   "pr": null
+  },
+  {
+   "date": "2025-06-11",
+   "hash": "da509ed1",
+   "type": "feat",
+   "scope": "config",
+   "subject": "feat(config): introduce site configuration file and update references",
+   "pr": null
+  },
+  {
+   "date": "2025-06-11",
+   "hash": "d7397c60",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: BMP format support (#4)",
+   "pr": 4
+  },
+  {
+   "date": "2025-06-11",
+   "hash": "71ec6fef",
+   "type": "feat",
+   "scope": "WebGLImageViewer",
+   "subject": "feat(WebGLImageViewer): add resize observer for canvas resizing",
+   "pr": null
+  },
+  {
+   "date": "2025-06-12",
+   "hash": "c775f821",
+   "type": "feat",
+   "scope": "i18n",
+   "subject": "feat(i18n): integrate i18next for internationalization support",
+   "pr": null
+  },
+  {
+   "date": "2025-06-12",
+   "hash": "e7ecf98c",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add feed sitemap generation plugin and update site URL in config",
+   "pr": null
+  },
+  {
+   "date": "2025-06-12",
+   "hash": "bc43458b",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update site configuration and enhance feed structure",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "9bc69299",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add locales JSON transformation plugin to Vite configuration",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "29d88544",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance photo viewer and gallery components with improved animations and layout",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "268af5d1",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance Live Photo component with internationalization support",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "2387e8d8",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: integrate mp4-muxer for video conversion and enhance ExifPanel layout",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "5f1c11ab",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance video conversion process with internationalization support",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "120d6c28",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add support for Traditional Chinese and update language resources",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "ed5284af",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update README with new branding and OpenGraph support",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "585a9db9",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement NotFound component and enhance photo route handling",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "39a6053e",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: open source vibe coding chats",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "e46541a9",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update .gitignore and enhance ExifPanel styling",
+   "pr": null
+  },
+  {
+   "date": "2025-06-13",
+   "hash": "b14dd85b",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance RSS EXIF specification and update related components",
+   "pr": null
+  },
+  {
+   "date": "2025-06-14",
+   "hash": "ece05078",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: migrate from exif-reader to exiftool-vendored and update EXIF handling",
+   "pr": null
+  },
+  {
+   "date": "2025-06-14",
+   "hash": "dad7e678",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add GPS information display to ExifPanel and update localization",
+   "pr": null
+  },
+  {
+   "date": "2025-06-14",
+   "hash": "dc90bd81",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add date-fns dependency and enhance ExifPanel with additional EXIF data fields",
+   "pr": null
+  },
+  {
+   "date": "2025-06-15",
+   "hash": "c0c58e56",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance EXIF data handling and localization updates",
+   "pr": null
+  },
+  {
+   "date": "2025-06-15",
+   "hash": "cfae63db",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: improve film mode handling in EXIF data processing",
+   "pr": null
+  },
+  {
+   "date": "2025-06-17",
+   "hash": "be6fdce8",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance EXIF data processing and worker initialization",
+   "pr": null
+  },
+  {
+   "date": "2025-06-17",
+   "hash": "87ae5f15",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update Dockerfile for improved build process and dependencies (#12)",
+   "pr": 12
+  },
+  {
+   "date": "2025-06-19",
+   "hash": "fbb31bda",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: Add S3_EXCLUDE_REGEX configuration option for file exclusion support. (#15)",
+   "pr": 15
+  },
+  {
+   "date": "2025-06-19",
+   "hash": "67869bbd",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add image validation logic in ImageLoaderManager",
+   "pr": null
+  },
+  {
+   "date": "2025-06-19",
+   "hash": "5963279f",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: og adjust and open source vibe coding chats",
+   "pr": null
+  },
+  {
+   "date": "2025-06-21",
+   "hash": "8c60382f",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add tone analysis and histogram features to photo viewer",
+   "pr": null
+  },
+  {
+   "date": "2025-06-22",
+   "hash": "8c962dfd",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add .tif format to supported image formats (#18)",
+   "pr": 18
+  },
+  {
+   "date": "2025-06-22",
+   "hash": "123bd9bf",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add code quality rules for TypeScript and React components",
+   "pr": null
+  },
+  {
+   "date": "2025-06-23",
+   "hash": "31727e54",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement FloatingActionButton component for enhanced user interactions",
+   "pr": null
+  },
+  {
+   "date": "2025-06-23",
+   "hash": "82243023",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance column width configuration in MasonryRoot component",
+   "pr": null
+  },
+  {
+   "date": "2025-06-23",
+   "hash": "c58835e3",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance SSR routing and development experience",
+   "pr": null
+  },
+  {
+   "date": "2025-06-23",
+   "hash": "cc04d99a",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add maxFileLimit configuration for S3 storage",
+   "pr": null
+  },
+  {
+   "date": "2025-06-25",
+   "hash": "2fb584e8",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add ExifTool integration and enhance EXIF data handling",
+   "pr": null
+  },
+  {
+   "date": "2025-06-26",
+   "hash": "91897b60",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance SSR and web applications with manifest injection and configuration updates",
+   "pr": null
+  },
+  {
+   "date": "2025-06-27",
+   "hash": "49ac4949",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: init api",
+   "pr": null
+  },
+  {
+   "date": "2025-06-27",
+   "hash": "5bd5947e",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update database connection logic and enhance upsert functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-06-27",
+   "hash": "c8fa65e9",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement analysis API and enhance reaction handling",
+   "pr": null
+  },
+  {
+   "date": "2025-06-27",
+   "hash": "31e7723b",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add success message for photo reactions in Chinese localization",
+   "pr": null
+  },
+  {
+   "date": "2025-06-27",
+   "hash": "6668425f",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add Vite plugins for enhanced functionality and localization support",
+   "pr": null
+  },
+  {
+   "date": "2025-06-28",
+   "hash": "6d430faa",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement remote repository support for manifest updates",
+   "pr": null
+  },
+  {
+   "date": "2025-06-28",
+   "hash": "5b512d60",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance Live Photo functionality and improve user experience",
+   "pr": null
+  },
+  {
+   "date": "2025-06-28",
+   "hash": "8000a085",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: integrate react-error-boundary for improved error handling, fixed #27",
+   "pr": null
+  },
+  {
+   "date": "2025-06-28",
+   "hash": "1a546bd3",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add GIT_TOKEN and PG_CONNECTION_STRING to environment configuration",
+   "pr": null
+  },
+  {
+   "date": "2025-06-28",
+   "hash": "2c36c52f",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add Git user identity configuration for CI environments",
+   "pr": null
+  },
+  {
+   "date": "2025-06-28",
+   "hash": "708f3004",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add blurhash generation and component correspondence documentation",
+   "pr": null
+  },
+  {
+   "date": "2025-06-29",
+   "hash": "5d523af3",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance photo reactions and loading indicators",
+   "pr": null
+  },
+  {
+   "date": "2025-06-29",
+   "hash": "96400b17",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: support share to external via iframe",
+   "pr": null
+  },
+  {
+   "date": "2025-06-29",
+   "hash": "bac175a9",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add TIFF format support and enhance Fujifilm settings description",
+   "pr": null
+  },
+  {
+   "date": "2025-07-01",
+   "hash": "e4fde5ae",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: integrate PWA support and update manifest configuration",
+   "pr": null
+  },
+  {
+   "date": "2025-07-02",
+   "hash": "093266a1",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance GalleryThumbnail and PhotoViewer components with Thumbhash integration",
+   "pr": null
+  },
+  {
+   "date": "2025-07-02",
+   "hash": "6ed3e86d",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement texture worker for image loading and tile creation",
+   "pr": null
+  },
+  {
+   "date": "2025-07-05",
+   "hash": "97afd42c",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enable cache repository to support private repository (#37)",
+   "pr": 37
+  },
+  {
+   "date": "2025-07-07",
+   "hash": "7310555c",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: map explore page (#29)",
+   "pr": 29
+  },
+  {
+   "date": "2025-07-07",
+   "hash": "7eade6bf",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add interactive map explorer section to README",
+   "pr": null
+  },
+  {
+   "date": "2025-07-07",
+   "hash": "56c206da",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add CLAUDE.md for project guidance",
+   "pr": null
+  },
+  {
+   "date": "2025-07-07",
+   "hash": "1e834bf7",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance SSR route handling with DOM manipulation",
+   "pr": null
+  },
+  {
+   "date": "2025-07-09",
+   "hash": "256becf6",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add local storage provider and photos static plugin (#40)",
+   "pr": 40
+  },
+  {
+   "date": "2025-07-09",
+   "hash": "6ec545a6",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: display hdr image using dom image viewer (#52)",
+   "pr": 52
+  },
+  {
+   "date": "2025-07-10",
+   "hash": "bf4f63cc",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add HDRBadge component to display HDR status in photo viewer",
+   "pr": null
+  },
+  {
+   "date": "2025-07-12",
+   "hash": "6c702ef9",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance Masonry component with reposition functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-07-15",
+   "hash": "d16d6b95",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add minimap support (#61)",
+   "pr": 61
+  },
+  {
+   "date": "2025-07-15",
+   "hash": "e89aedee",
+   "type": "feat",
+   "scope": "map",
+   "subject": "feat(map): sync selected status with url (#65)",
+   "pr": 65
+  },
+  {
+   "date": "2025-07-15",
+   "hash": "4008ef48",
+   "type": "feat",
+   "scope": "i18n",
+   "subject": "feat(i18n): for minimap loading and view location messages (#64)",
+   "pr": 64
+  },
+  {
+   "date": "2025-07-20",
+   "hash": "2df572e7",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: support tags search (#68)",
+   "pr": 68
+  },
+  {
+   "date": "2025-07-28",
+   "hash": "d440b691",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: display rating in exif panel (#69)",
+   "pr": 69
+  },
+  {
+   "date": "2025-07-31",
+   "hash": "21a6743c",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: auto categoried by camera & lens (#72)",
+   "pr": 72
+  },
+  {
+   "date": "2025-08-04",
+   "hash": "54b8bd33",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add camera and lens filtering functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-08-07",
+   "hash": "86b10288",
+   "type": "feat",
+   "scope": "ClusterPhotoGrid",
+   "subject": "feat(ClusterPhotoGrid): add year display (#80)",
+   "pr": 80
+  },
+  {
+   "date": "2025-08-13",
+   "hash": "1f52766c",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add rating filter (#78)",
+   "pr": 78
+  },
+  {
+   "date": "2025-08-21",
+   "hash": "64b46773",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add RSS in social configuration (#82)",
+   "pr": 82
+  },
+  {
+   "date": "2025-08-29",
+   "hash": "978413e8",
+   "type": "feat",
+   "scope": "i18n",
+   "subject": "feat(i18n): complete missing translations (#85)",
+   "pr": 85
+  },
+  {
+   "date": "2025-08-31",
+   "hash": "1cc5c76e",
+   "type": "feat",
+   "scope": "gallery",
+   "subject": "feat(gallery): add tag filtering options and UI components",
+   "pr": null
+  },
+  {
+   "date": "2025-09-08",
+   "hash": "888a039e",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: adjust live photo interaction (#97)",
+   "pr": 97
+  },
+  {
+   "date": "2025-09-14",
+   "hash": "2191e59b",
+   "type": "feat",
+   "scope": "builder",
+   "subject": "feat(builder): enhance S3 client configuration and download handling, try fix #100",
+   "pr": null
+  },
+  {
+   "date": "2025-09-15",
+   "hash": "444468b8",
+   "type": "perf",
+   "scope": "",
+   "subject": "perf: image webgl perf",
+   "pr": null
+  },
+  {
+   "date": "2025-09-24",
+   "hash": "eed60623",
+   "type": "feat",
+   "scope": "PhotoViewer",
+   "subject": "feat(PhotoViewer): add entry/exit animation (#110)",
+   "pr": 110
+  },
+  {
+   "date": "2025-09-24",
+   "hash": "7a49741c",
+   "type": "perf",
+   "scope": "PhotoViewer",
+   "subject": "perf(PhotoViewer): try improving exit transition performance (#111)",
+   "pr": 111
+  },
+  {
+   "date": "2025-10-16",
+   "hash": "6c940658",
+   "type": "feat",
+   "scope": "gallery",
+   "subject": "feat(gallery): implement global search functionality for photos (#115)",
+   "pr": 115
+  },
+  {
+   "date": "2025-10-16",
+   "hash": "8b07b138",
+   "type": "feat",
+   "scope": "image-conversion",
+   "subject": "feat(image-conversion): add queue management for image conversion tasks and update loading states",
+   "pr": null
+  },
+  {
+   "date": "2025-10-20",
+   "hash": "c4448cef",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add EagleStorageProvider (#122)",
+   "pr": 122
+  },
+  {
+   "date": "2025-10-23",
+   "hash": "7469444c",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: new glassmorphic depth design system",
+   "pr": null
+  },
+  {
+   "date": "2025-10-24",
+   "hash": "87692933",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add map projection mode support (#127)",
+   "pr": 127
+  },
+  {
+   "date": "2025-10-24",
+   "hash": "d0f8f16b",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add distPath for local storage (#126)",
+   "pr": 126
+  },
+  {
+   "date": "2025-10-26",
+   "hash": "bb308820",
+   "type": "feat",
+   "scope": "server",
+   "subject": "feat(server): onboarding init",
+   "pr": null
+  },
+  {
+   "date": "2025-10-26",
+   "hash": "310e1c50",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: adjust onboarding ui",
+   "pr": null
+  },
+  {
+   "date": "2025-10-27",
+   "hash": "c300b5e8",
+   "type": "feat",
+   "scope": "server",
+   "subject": "feat(server): onboarding and login layout design",
+   "pr": null
+  },
+  {
+   "date": "2025-10-27",
+   "hash": "addb2435",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: onboarding ui adjust",
+   "pr": null
+  },
+  {
+   "date": "2025-10-27",
+   "hash": "223e90d4",
+   "type": "feat",
+   "scope": "dashboard",
+   "subject": "feat(dashboard): design init",
+   "pr": null
+  },
+  {
+   "date": "2025-10-27",
+   "hash": "a4e506f5",
+   "type": "feat",
+   "scope": "dashboard",
+   "subject": "feat(dashboard): provider init",
+   "pr": null
+  },
+  {
+   "date": "2025-10-28",
+   "hash": "e2d2345b",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: superadmin settings",
+   "pr": null
+  },
+  {
+   "date": "2025-10-28",
+   "hash": "7670d58a",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: unify dashboard design",
+   "pr": null
+  },
+  {
+   "date": "2025-10-28",
+   "hash": "33a56b62",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance storage provider management and settings",
+   "pr": null
+  },
+  {
+   "date": "2025-10-30",
+   "hash": "7dd6c1c8",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: sync photos from active storage provider (#135)",
+   "pr": 135
+  },
+  {
+   "date": "2025-10-31",
+   "hash": "ba68be80",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: revamp dashboard photo management (#136)",
+   "pr": 136
+  },
+  {
+   "date": "2025-10-31",
+   "hash": "e27b45ec",
+   "type": "feat",
+   "scope": "builder",
+   "subject": "feat(builder): upload thumbnails via storage plugin (#137)",
+   "pr": 137
+  },
+  {
+   "date": "2025-10-31",
+   "hash": "3d7c528c",
+   "type": "feat",
+   "scope": "builder",
+   "subject": "feat(builder): implement photo execution context for improved logging and storage key normalization",
+   "pr": null
+  },
+  {
+   "date": "2025-11-01",
+   "hash": "0c84619e",
+   "type": "feat",
+   "scope": "static-web",
+   "subject": "feat(static-web): implement static web module with controller and service for asset handling",
+   "pr": null
+  },
+  {
+   "date": "2025-11-01",
+   "hash": "2da5204f",
+   "type": "feat",
+   "scope": "controller",
+   "subject": "feat(controller): add support for bypassing global prefix in controller metadata",
+   "pr": null
+  },
+  {
+   "date": "2025-11-02",
+   "hash": "6cf5fd7c",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add agents documentation for frontend and backend architecture",
+   "pr": null
+  },
+  {
+   "date": "2025-11-02",
+   "hash": "d5b20a63",
+   "type": "feat",
+   "scope": "analytics",
+   "subject": "feat(analytics): implement dashboard analytics components and API integration",
+   "pr": null
+  },
+  {
+   "date": "2025-11-03",
+   "hash": "22f058ae",
+   "type": "feat",
+   "scope": "builder",
+   "subject": "feat(builder): enhance eagle storage plugin to read and inject image metadata (#141)",
+   "pr": 141
+  },
+  {
+   "date": "2025-11-06",
+   "hash": "bc4cd362",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add tenant management features with error handling and UI components",
+   "pr": null
+  },
+  {
+   "date": "2025-11-06",
+   "hash": "c1d585d9",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add build:serve script and update build:web command for server serving, fixed #147",
+   "pr": null
+  },
+  {
+   "date": "2025-11-07",
+   "hash": "89f2825a",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): implement social authentication support and refactor related components",
+   "pr": null
+  },
+  {
+   "date": "2025-11-07",
+   "hash": "1dcb2945",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement site settings management and onboarding enhancements",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "31edec33",
+   "type": "feat",
+   "scope": "onboarding",
+   "subject": "feat(onboarding): enhance validation logic with Zod schemas for tenant and admin forms",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "51f58670",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: integrate site configuration and enhance photo navigation",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "44f9cbb3",
+   "type": "feat",
+   "scope": "feed",
+   "subject": "feat(feed): implement RSS feed generation and caching mechanism",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "caf47a4a",
+   "type": "feat",
+   "scope": "og",
+   "subject": "feat(og): implement Open Graph image generation for photos",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "c5883f3b",
+   "type": "feat",
+   "scope": "og",
+   "subject": "feat(og): enhance Open Graph image generation with responsive layouts and font integration",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "d01da030",
+   "type": "feat",
+   "scope": "static-web",
+   "subject": "feat(static-web): enhance photo page handling with Open Graph metadata injection",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "8d0e5dfe",
+   "type": "feat",
+   "scope": "sdk",
+   "subject": "feat(sdk): consolidate SDK functionality and update dependencies",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "5fe57599",
+   "type": "feat",
+   "scope": "errors",
+   "subject": "feat(errors): add new error codes for internal server errors and reserved tenant slugs",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "129682d1",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): update authentication routes and enhance super admin settings management",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "bc4e21d2",
+   "type": "feat",
+   "scope": "dependencies",
+   "subject": "feat(dependencies): add @iconify-json/simple-icons and update auth routes",
+   "pr": null
+  },
+  {
+   "date": "2025-11-08",
+   "hash": "e4d61ebd",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): enhance social account management and improve authentication flow",
+   "pr": null
+  },
+  {
+   "date": "2025-11-09",
+   "hash": "442e1bcb",
+   "type": "feat",
+   "scope": "docker",
+   "subject": "feat(docker): add perl installation to Dockerfile for production environment",
+   "pr": null
+  },
+  {
+   "date": "2025-11-09",
+   "hash": "017cd763",
+   "type": "feat",
+   "scope": "docker",
+   "subject": "feat(docker): add Dockerfile for core application build and production setup",
+   "pr": null
+  },
+  {
+   "date": "2025-11-10",
+   "hash": "777e8cbb",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add support for motion photo (#153)",
+   "pr": 153
+  },
+  {
+   "date": "2025-11-11",
+   "hash": "88f763d2",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement placeholder tenant support across guards and decorators",
+   "pr": null
+  },
+  {
+   "date": "2025-11-11",
+   "hash": "12adcf07",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance version resolution for external dependencies in vite.config.ts",
+   "pr": null
+  },
+  {
+   "date": "2025-11-11",
+   "hash": "7eebdb60",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add database migration CLI and entrypoint script",
+   "pr": null
+  },
+  {
+   "date": "2025-11-11",
+   "hash": "d1b5ceed",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add SkipTenantGuard to static web routes",
+   "pr": null
+  },
+  {
+   "date": "2025-11-11",
+   "hash": "ee938d1f",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement root tenant login functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-11-11",
+   "hash": "6b1f124a",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement tenant missing page and enhance static web response handling",
+   "pr": null
+  },
+  {
+   "date": "2025-11-12",
+   "hash": "0eb4ac93",
+   "type": "feat",
+   "scope": "static-web",
+   "subject": "feat(static-web): enhance tenant access control and response handling",
+   "pr": null
+  },
+  {
+   "date": "2025-11-12",
+   "hash": "fdf1b891",
+   "type": "feat",
+   "scope": "registration-wizard",
+   "subject": "feat(registration-wizard): implement automatic tenant slug locking based on subdomain",
+   "pr": null
+  },
+  {
+   "date": "2025-11-12",
+   "hash": "1435eb06",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): enhance redirect URI handling for multi-tenant support",
+   "pr": null
+  },
+  {
+   "date": "2025-11-12",
+   "hash": "74584cd2",
+   "type": "feat",
+   "scope": "oauth-gateway",
+   "subject": "feat(oauth-gateway): implement multi-tenant OAuth gateway service",
+   "pr": null
+  },
+  {
+   "date": "2025-11-12",
+   "hash": "66c57218",
+   "type": "feat",
+   "scope": "oauth-gateway",
+   "subject": "feat(oauth-gateway): add oauthGatewayUrl configuration and handling",
+   "pr": null
+  },
+  {
+   "date": "2025-11-12",
+   "hash": "a5ff9363",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): enhance tenant context resolution and error logging",
+   "pr": null
+  },
+  {
+   "date": "2025-11-12",
+   "hash": "d1511229",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): refine tenant context handling and slug resolution",
+   "pr": null
+  },
+  {
+   "date": "2025-11-12",
+   "hash": "76d60fd6",
+   "type": "feat",
+   "scope": "ui",
+   "subject": "feat(ui): introduce LinearBorderContainer component and enhance NotFound pages",
+   "pr": null
+  },
+  {
+   "date": "2025-11-13",
+   "hash": "ff73de44",
+   "type": "feat",
+   "scope": "data-sync",
+   "subject": "feat(data-sync): implement logging for data synchronization process",
+   "pr": null
+  },
+  {
+   "date": "2025-11-13",
+   "hash": "76a4c251",
+   "type": "feat",
+   "scope": "photo",
+   "subject": "feat(photo): enhance photo asset normalization and logging",
+   "pr": null
+  },
+  {
+   "date": "2025-11-13",
+   "hash": "6a4f868a",
+   "type": "feat",
+   "scope": "docker",
+   "subject": "feat(docker): add Docker Compose configuration for database and caching services",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "3e60b382",
+   "type": "feat",
+   "scope": "builder",
+   "subject": "feat(builder): integrate GitHub repository synchronization plugin and update configuration",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "f2658cf5",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: support hdr motion photo (#155)",
+   "pr": 155
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "2b306680",
+   "type": "feat",
+   "scope": "data-sync",
+   "subject": "feat(data-sync): ensure plugin hooks are ready before listing storage objects",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "5e4b4bb4",
+   "type": "feat",
+   "scope": "data-management",
+   "subject": "feat(data-management): add data management module for photo asset maintenance",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "51a5a51f",
+   "type": "feat",
+   "scope": "data-sync",
+   "subject": "feat(data-sync): enhance error handling in data synchronization process",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "fa7b953d",
+   "type": "feat",
+   "scope": "logger",
+   "subject": "feat(logger): enhance logging functionality with tag support and message relaying",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "ef19962e",
+   "type": "feat",
+   "scope": "docker",
+   "subject": "feat(docker): optimize Dockerfile and enhance EXIF data extraction",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "4e1b2762",
+   "type": "feat",
+   "scope": "config",
+   "subject": "feat(config): add development environment constant and enhance font loading logic",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "4391721d",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): implement account unlinking validation and add tenant account deletion functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "3f27b971",
+   "type": "feat",
+   "scope": "manifest",
+   "subject": "feat(manifest): add public controller and enhance manifest service",
+   "pr": null
+  },
+  {
+   "date": "2025-11-14",
+   "hash": "0621909e",
+   "type": "feat",
+   "scope": "app",
+   "subject": "feat(app): integrate Hono framework for improved routing and error handling",
+   "pr": null
+  },
+  {
+   "date": "2025-11-15",
+   "hash": "dafc6210",
+   "type": "feat",
+   "scope": "config",
+   "subject": "feat(config): update site configuration and enhance author handling",
+   "pr": null
+  },
+  {
+   "date": "2025-11-15",
+   "hash": "796f9c96",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): implement site autofill functionality in registration wizard",
+   "pr": null
+  },
+  {
+   "date": "2025-11-15",
+   "hash": "2f1b69f0",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement photo upload workflow with processing and error handling",
+   "pr": null
+  },
+  {
+   "date": "2025-11-16",
+   "hash": "1616f866",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: upload modal",
+   "pr": null
+  },
+  {
+   "date": "2025-11-16",
+   "hash": "a5afd8b2",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add photo upload and sync limits configuration",
+   "pr": null
+  },
+  {
+   "date": "2025-11-16",
+   "hash": "d1dee582",
+   "type": "feat",
+   "scope": "billing",
+   "subject": "feat(billing): implement billing plan management and usage tracking",
+   "pr": null
+  },
+  {
+   "date": "2025-11-16",
+   "hash": "2e6ef268",
+   "type": "feat",
+   "scope": "landing",
+   "subject": "feat(landing): enhance landing page with privacy and terms of service",
+   "pr": null
+  },
+  {
+   "date": "2025-11-16",
+   "hash": "af3b5b97",
+   "type": "feat",
+   "scope": "landing",
+   "subject": "feat(landing): update landing page metadata and branding",
+   "pr": null
+  },
+  {
+   "date": "2025-11-17",
+   "hash": "99a57f92",
+   "type": "feat",
+   "scope": "billing",
+   "subject": "feat(billing): enhance billing plan management with product and pricing configurations",
+   "pr": null
+  },
+  {
+   "date": "2025-11-17",
+   "hash": "765cd185",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): integrate creem subscription management into authentication flow",
+   "pr": null
+  },
+  {
+   "date": "2025-11-17",
+   "hash": "76debaa3",
+   "type": "feat",
+   "scope": "photo",
+   "subject": "feat(photo): implement photo tag management and update functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-11-17",
+   "hash": "3fe81cc8",
+   "type": "feat",
+   "scope": "dependencies",
+   "subject": "feat(dependencies): add patch for better-auth and update pnpm-lock and workspace files",
+   "pr": null
+  },
+  {
+   "date": "2025-11-17",
+   "hash": "05a83dad",
+   "type": "feat",
+   "scope": "docker",
+   "subject": "feat(docker): add patches directory to Dockerfile for core and builder stages",
+   "pr": null
+  },
+  {
+   "date": "2025-11-17",
+   "hash": "53abfc59",
+   "type": "feat",
+   "scope": "auth",
+   "subject": "feat(auth): enhance LoginStep with platform description and adjust layout",
+   "pr": null
+  },
+  {
+   "date": "2025-11-17",
+   "hash": "739b1e48",
+   "type": "feat",
+   "scope": "dashboard",
+   "subject": "feat(dashboard): enhance App and PhotoSyncActions components with new hooks and functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-11-18",
+   "hash": "c8b7fcc8",
+   "type": "feat",
+   "scope": "dashboard",
+   "subject": "feat(dashboard): update photo management components and dependencies",
+   "pr": null
+  },
+  {
+   "date": "2025-11-18",
+   "hash": "d7084a32",
+   "type": "feat",
+   "scope": "i18n",
+   "subject": "feat(i18n): integrate internationalization support into dashboard",
+   "pr": null
+  },
+  {
+   "date": "2025-11-18",
+   "hash": "c94a601f",
+   "type": "feat",
+   "scope": "i18n",
+   "subject": "feat(i18n): enhance dashboard with internationalization support",
+   "pr": null
+  },
+  {
+   "date": "2025-11-18",
+   "hash": "efa5ade0",
+   "type": "feat",
+   "scope": "static-assets",
+   "subject": "feat(static-assets): introduce StaticAssetHostService and enhance static asset handling and i18n",
+   "pr": null
+  },
+  {
+   "date": "2025-11-18",
+   "hash": "737618b4",
+   "type": "feat",
+   "scope": "i18n",
+   "subject": "feat(i18n): implement internationalization for UI schema and settings",
+   "pr": null
+  },
+  {
+   "date": "2025-11-18",
+   "hash": "33b01e37",
+   "type": "feat",
+   "scope": "docker",
+   "subject": "feat(docker): add patches directory copy in Dockerfile",
+   "pr": null
+  },
+  {
+   "date": "2025-11-18",
+   "hash": "fcee67b3",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: Implement AppStateModule and AppStateService for application initialization state management",
+   "pr": null
+  },
+  {
+   "date": "2025-11-18",
+   "hash": "8713d2c9",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add tenant slug validation and availability check",
+   "pr": null
+  },
+  {
+   "date": "2025-11-19",
+   "hash": "a39e130c",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance SEO and metadata handling across landing pages",
+   "pr": null
+  },
+  {
+   "date": "2025-11-19",
+   "hash": "b5fdb326",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update landing configuration and remove unused components",
+   "pr": null
+  },
+  {
+   "date": "2025-11-19",
+   "hash": "23d208c0",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement simple CORS support and enhance error handling",
+   "pr": null
+  },
+  {
+   "date": "2025-11-19",
+   "hash": "c1dc142f",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add logo image and update page header with new branding",
+   "pr": null
+  },
+  {
+   "date": "2025-11-19",
+   "hash": "da429585",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add background color to body in global styles",
+   "pr": null
+  },
+  {
+   "date": "2025-11-19",
+   "hash": "bc9c87d0",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: b2 provider",
+   "pr": null
+  },
+  {
+   "date": "2025-11-20",
+   "hash": "dc23b286",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance storage provider management and localization support",
+   "pr": null
+  },
+  {
+   "date": "2025-11-20",
+   "hash": "a1710924",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement custom domain management for tenants",
+   "pr": null
+  },
+  {
+   "date": "2025-11-20",
+   "hash": "2d7b4e31",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance tenant management with photo handling and UI improvements",
+   "pr": null
+  },
+  {
+   "date": "2025-11-20",
+   "hash": "ac9f12b1",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance domain management UI with loading states and improved button styles",
+   "pr": null
+  },
+  {
+   "date": "2025-11-20",
+   "hash": "1835aff2",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update event handling to use async/await for improved reliability",
+   "pr": null
+  },
+  {
+   "date": "2025-11-21",
+   "hash": "91434280",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add SSR support for photo pages with separate dev and prod handlers",
+   "pr": null
+  },
+  {
+   "date": "2025-11-21",
+   "hash": "f0678038",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement managed storage plans and provider settings",
+   "pr": null
+  },
+  {
+   "date": "2025-11-22",
+   "hash": "9095bb08",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add normalization helper functions and integrate into services",
+   "pr": null
+  },
+  {
+   "date": "2025-11-23",
+   "hash": "f598add8",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance static asset handling and improve request processing",
+   "pr": null
+  },
+  {
+   "date": "2025-11-23",
+   "hash": "d5a2ea4d",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance documentation and add new features for Afilmory",
+   "pr": null
+  },
+  {
+   "date": "2025-11-23",
+   "hash": "1c64070a",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add GitHub Actions workflow for building and publishing core Docker image",
+   "pr": null
+  },
+  {
+   "date": "2025-11-23",
+   "hash": "b5fa9576",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance SaaS documentation and introduce health check module",
+   "pr": null
+  },
+  {
+   "date": "2025-11-23",
+   "hash": "1cdab983",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update GitHub Actions workflow and reorganize route imports",
+   "pr": null
+  },
+  {
+   "date": "2025-11-24",
+   "hash": "58a989c1",
+   "type": "feat",
+   "scope": "geocoding",
+   "subject": "feat(geocoding): implement reverse geocoding (#157)",
+   "pr": 157
+  },
+  {
+   "date": "2025-11-24",
+   "hash": "5a98b435",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add Gallery Showcase component and update documentation",
+   "pr": null
+  },
+  {
+   "date": "2025-11-24",
+   "hash": "471c1b11",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance GalleryShowcase with photo count and tags",
+   "pr": null
+  },
+  {
+   "date": "2025-11-24",
+   "hash": "3980e246",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: integrate react-responsive-masonry for improved gallery layout",
+   "pr": null
+  },
+  {
+   "date": "2025-11-24",
+   "hash": "d9a5be56",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add support for Aliyun OSS and Tencent COS storage providers",
+   "pr": null
+  },
+  {
+   "date": "2025-11-24",
+   "hash": "fc994edc",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update README with SaaS details and self-hosting instructions",
+   "pr": null
+  },
+  {
+   "date": "2025-11-24",
+   "hash": "ef488083",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance landing page with GitHub link and NocturneButton updates",
+   "pr": null
+  },
+  {
+   "date": "2025-11-25",
+   "hash": "3a528584",
+   "type": "feat",
+   "scope": "location",
+   "subject": "feat(location): add location-based search functionality (#168)",
+   "pr": 168
+  },
+  {
+   "date": "2025-11-25",
+   "hash": "7fbb82c5",
+   "type": "perf",
+   "scope": "web",
+   "subject": "perf(web): optimize thumbnail loading with virtual scrolling and lazy… (#167)",
+   "pr": 167
+  },
+  {
+   "date": "2025-11-25",
+   "hash": "e15d066e",
+   "type": "feat",
+   "scope": "rss",
+   "subject": "feat(rss): enhance rss feed with thumbnail and detailed exif info, and fix feed link (#169)",
+   "pr": 169
+  },
+  {
+   "date": "2025-11-25",
+   "hash": "5bf7c060",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance Open Graph image generation for homepage",
+   "pr": null
+  },
+  {
+   "date": "2025-11-26",
+   "hash": "37825d1d",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add upload log",
+   "pr": null
+  },
+  {
+   "date": "2025-11-27",
+   "hash": "cb40fe74",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement comments feature (#171)",
+   "pr": 171
+  },
+  {
+   "date": "2025-11-27",
+   "hash": "41ad6d73",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update SignInPanel to use dynamic icons for login providers",
+   "pr": null
+  },
+  {
+   "date": "2025-11-27",
+   "hash": "a3716b1b",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add favicon injection to static web service",
+   "pr": null
+  },
+  {
+   "date": "2025-11-27",
+   "hash": "b48f4bcd",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance data management service with additional database operations",
+   "pr": null
+  },
+  {
+   "date": "2025-11-29",
+   "hash": "ae21438e",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement multi-tenancy support in authentication module (#177)",
+   "pr": 177
+  },
+  {
+   "date": "2025-11-29",
+   "hash": "447caaba",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement gallery view modes and enhance layout",
+   "pr": null
+  },
+  {
+   "date": "2025-11-29",
+   "hash": "26100b26",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance PageHeaderCenter with animation and improve Input component",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "e71548b3",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance gallery layout and functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "1b5d782a",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: update CommentsContent and SkeletonList components for improved loading states",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "62fd908d",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance GalleryThumbnail with virtualized rendering and hover card support",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "2a7336cd",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance PageHeader and PageHeaderRight components with improved styling and layout",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "019ee501",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement OAuth state management for multi-tenancy support",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "187edf0d",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add @afilmory/utils dependency to oauth-gateway and update pnpm-lock.yaml",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "f81b3d0a",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement sign-out functionality in auth API and user menu",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "1090aff3",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance OAuth callback logging and error handling",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "b9d06fe6",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement active filters feature in gallery module",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "d9e09b37",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance Sonner component with toast functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "b6b7941e",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement ShareModal and related components for enhanced photo sharing",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "5763ec8d",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance gallery page header with responsive social media links and view mode options",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "7b02aeab",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance InspectorPanel and PhotoViewer with inspector visibility controls",
+   "pr": null
+  },
+  {
+   "date": "2025-11-30",
+   "hash": "a4ed1ecb",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: custom CDN for GitHub storage (#172) (#174)",
+   "pr": 172
+  },
+  {
+   "date": "2025-12-03",
+   "hash": "ced9e747",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement email notification system for comments",
+   "pr": null
+  },
+  {
+   "date": "2025-12-03",
+   "hash": "9fb7f552",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add website field to CommentUser and update comment components",
+   "pr": null
+  },
+  {
+   "date": "2025-12-04",
+   "hash": "e8550cee",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance tenant management with pagination and sorting options",
+   "pr": null
+  },
+  {
+   "date": "2025-12-05",
+   "hash": "b42bfbc5",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement tenant suspension handling and deletion functionality",
+   "pr": null
+  },
+  {
+   "date": "2025-12-05",
+   "hash": "a4927c52",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add comment count API and integrate with InspectorPanel",
+   "pr": null
+  },
+  {
+   "date": "2025-12-05",
+   "hash": "9b1a1b7b",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: make Creem integration optional and error-prone if misconfigured",
+   "pr": null
+  },
+  {
+   "date": "2025-12-06",
+   "hash": "8c9e8a95",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance tenant management with search functionality and DTO updates",
+   "pr": null
+  },
+  {
+   "date": "2025-12-06",
+   "hash": "b636c8cc",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add storage plan management to tenant administration",
+   "pr": null
+  },
+  {
+   "date": "2025-12-06",
+   "hash": "62e98a95",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance locales-json plugin to filter non-locales files",
+   "pr": null
+  },
+  {
+   "date": "2025-12-06",
+   "hash": "7f9dd316",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance registration wizard with localization and improved state management",
+   "pr": null
+  },
+  {
+   "date": "2025-12-10",
+   "hash": "d6b5cf1d",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add storage usage tracking and management features for tenants",
+   "pr": null
+  },
+  {
+   "date": "2025-12-10",
+   "hash": "883fd37e",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement storage tenant listing and query enhancements",
+   "pr": null
+  },
+  {
+   "date": "2025-12-10",
+   "hash": "9229ad63",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: enhance billing error handling and upgrade prompts",
+   "pr": null
+  },
+  {
+   "date": "2025-12-14",
+   "hash": "0da12eb3",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: implement drag-and-drop file upload feature in photo library",
+   "pr": null
+  },
+  {
+   "date": "2026-01-07",
+   "hash": "e795a998",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add AppSkeleton component and integrate suspense for loading state",
+   "pr": null
+  },
+  {
+   "date": "2026-01-10",
+   "hash": "0261e06f",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add `ogImagePlugin` to build and upload og images (#213)",
+   "pr": 213
+  },
+  {
+   "date": "2026-01-10",
+   "hash": "7e216d90",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: introduce @afilmory/typing package and update imports across the codebase",
+   "pr": null
+  },
+  {
+   "date": "2026-01-22",
+   "hash": "a9390468",
+   "type": "feat",
+   "scope": "builder",
+   "subject": "feat(builder): add mp4 extension support for Live Photos in storage providers (#218)",
+   "pr": 218
+  },
+  {
+   "date": "2026-02-04",
+   "hash": "cd501adb",
+   "type": "feat",
+   "scope": "ui",
+   "subject": "feat(ui): implement reduced motion support (#222)",
+   "pr": 222
+  },
+  {
+   "date": "2026-03-16",
+   "hash": "12fc871f",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: Add configurable ICP beian footer for China mainland (#228)",
+   "pr": 228
+  },
+  {
+   "date": "2026-03-18",
+   "hash": "82f687f5",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: Add option to generate configs for static og images (#220)",
+   "pr": 220
+  },
+  {
+   "date": "2026-03-29",
+   "hash": "67a52ebe",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: auto-fetch demo photos from remote repo during preview build (#238)",
+   "pr": 238
+  },
+  {
+   "date": "2026-04-18",
+   "hash": "d25fd9da",
+   "type": "feat",
+   "scope": "viewer",
+   "subject": "feat(viewer): new vertical gesture and animation on mobile (#240)",
+   "pr": 240
+  },
+  {
+   "date": "2026-04-26",
+   "hash": "1ec200de",
+   "type": "feat",
+   "scope": "viewer-motion",
+   "subject": "feat(viewer-motion): prepare package for npm publish with tsdown",
+   "pr": null
+  },
+  {
+   "date": "2026-06-03",
+   "hash": "6ea94d07",
+   "type": "feat",
+   "scope": "dashboard",
+   "subject": "feat(dashboard): surface recently used tags first in photo upload picker",
+   "pr": null
+  },
+  {
+   "date": "2026-06-03",
+   "hash": "b445f4d9",
+   "type": "feat",
+   "scope": "dashboard",
+   "subject": "feat(dashboard): show thumbnail previews in photo upload list",
+   "pr": null
+  },
+  {
+   "date": "2026-06-03",
+   "hash": "89547ae8",
+   "type": "feat",
+   "scope": "web",
+   "subject": "feat(web): add date-range filter to gallery",
+   "pr": null
+  },
+  {
+   "date": "2026-06-05",
+   "hash": "facce456",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add search controller",
+   "pr": null
+  },
+  {
+   "date": "2026-06-11",
+   "hash": "32235418",
+   "type": "feat",
+   "scope": "builder",
+   "subject": "feat(builder): add variant cluster report pipeline with CLIP embedding spikes",
+   "pr": null
+  },
+  {
+   "date": "2026-06-15",
+   "hash": "6aba00d5",
+   "type": "feat",
+   "scope": "web",
+   "subject": "feat(web): restore iframe embed share via action button",
+   "pr": null
+  },
+  {
+   "date": "2026-06-16",
+   "hash": "229b3368",
+   "type": "feat",
+   "scope": "share",
+   "subject": "feat(share): redesign iframe embed as script widget with three modes",
+   "pr": null
+  },
+  {
+   "date": "2026-06-17",
+   "hash": "4e888c78",
+   "type": "feat",
+   "scope": "share",
+   "subject": "feat(share): port SSR three-mode iframe renderer into be",
+   "pr": null
+  },
+  {
+   "date": "2026-06-29",
+   "hash": "c61ea3f3",
+   "type": "feat",
+   "scope": "cmdk",
+   "subject": "feat(cmdk): flat slab w/ AF brackets + focus-style transitions",
+   "pr": null
+  },
+  {
+   "date": "2026-07-19",
+   "hash": "a4ee1ff5",
+   "type": "feat",
+   "scope": "web",
+   "subject": "feat(web): add VibeLoft web telemetry script to global head",
+   "pr": null
+  },
+  {
+   "date": "2026-07-29",
+   "hash": "e6302a45",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add Expo RN app with featured galleries feed and gallery masonry",
+   "pr": null
+  },
+  {
+   "date": "2026-07-29",
+   "hash": "699f73d6",
+   "type": "feat",
+   "scope": "site",
+   "subject": "feat(site): add Astro landing page with live gallery demo",
+   "pr": null
+  },
+  {
+   "date": "2026-07-29",
+   "hash": "8a98286a",
+   "type": "feat",
+   "scope": "be",
+   "subject": "feat(be): mobile login broker with slug-free OAuth and expo auth support",
+   "pr": null
+  },
+  {
+   "date": "2026-07-29",
+   "hash": "8aad1a5a",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): sign in with GitHub/Google via login broker, own-gallery home tab",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "3fa9744b",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): native masonry home with pinch columns, immersive overlays, and photo showcase sign-in",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "19a4fbe8",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): filter data layer and pure filter functions",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "619c7c06",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): native sheet detents in presentation system",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "bd2b8d0e",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): filter store and filter sheet",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "8892be30",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): home filter button and filtered masonry",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "289ce631",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): liquid glass home overlay chrome",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "7ca1a931",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): profile sheet and avatar button",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "8efe0b23",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): native soft scroll edge effect above the masonry",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "c2be29a7",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): continuous multi-step pinch column transitions",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "2c541633",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): persist preferred masonry column count",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "b1145e9f",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): move home chrome into the masonry overlay",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "37f7d7f9",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): prominent glass date pill at body text size",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "adf256a1",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): build the home controls from a native glass container",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "f5142c74",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add native photo viewer with detail screen and info sheet",
+   "pr": null
+  },
+  {
+   "date": "2026-07-30",
+   "hash": "df296831",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add native photo info and filter sheets",
+   "pr": null
+  },
+  {
+   "date": "2026-07-31",
+   "hash": "ec3387c7",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add i18n support, tone analysis, and map location to photo info",
+   "pr": null
+  },
+  {
+   "date": "2026-07-31",
+   "hash": "4bbd5009",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add global workspaces and expand mobile app",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "86c537dd",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add photo reaction rail",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "80782adb",
+   "type": "feat",
+   "scope": "dev",
+   "subject": "feat(dev): add local docker dev environment for the mobile app",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "bb5a75fb",
+   "type": "feat",
+   "scope": "dev",
+   "subject": "feat(dev): seed sample photos through the real upload pipeline",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "479ed9d8",
+   "type": "feat",
+   "scope": "dev",
+   "subject": "feat(dev): add password sign-in and workspace owner hint for local testing",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "4773a36b",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): rebuild photo detail with native UI",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "51e18a0e",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): drop page index from photo detail header model",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "eb3ada5b",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add PhotoDetailChromeVisibility state machine and scrim view",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "48b1cff0",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add native PhotoDetailNavigationBar and PhotoDetailToolbar",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "01bafc8c",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): rebuild photo detail reaction rail on glass container",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "bae6fb31",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): upload photos through a cancellable queue",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "d0a0469f",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): review sheet and background FAB for uploads",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "3bc7eea5",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): native upload review sheet view",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "046e03d5",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): rebuild photo detail chrome on native iOS 26 bars",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "7cc409e4",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): move photo upload pipeline to native Swift",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "f5209fba",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): wire single-tap immersive toggle and hand status bar to native",
+   "pr": null
+  },
+  {
+   "date": "2026-08-01",
+   "hash": "8281ac05",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): render upload queue UI natively",
+   "pr": null
+  },
+  {
+   "date": "2026-08-02",
+   "hash": "31fd4208",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): upload live activity, native queue polish, server log feed",
+   "pr": null
+  },
+  {
+   "date": "2026-08-02",
+   "hash": "37453fb0",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): per-job server log review in the upload queue",
+   "pr": null
+  },
+  {
+   "date": "2026-08-02",
+   "hash": "804b974a",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): native comments sheet, photo sidebar, and dismiss gesture",
+   "pr": null
+  },
+  {
+   "date": "2026-08-03",
+   "hash": "52973c94",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): restructure the photo info sheet hierarchy",
+   "pr": null
+  },
+  {
+   "date": "2026-08-03",
+   "hash": "4efa6af7",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): rebuild the photo reaction rail around a scrub-and-hold gesture",
+   "pr": null
+  },
+  {
+   "date": "2026-08-03",
+   "hash": "24959f86",
+   "type": "perf",
+   "scope": "mobile",
+   "subject": "perf(mobile): defer full photo metadata past the opening transition",
+   "pr": null
+  },
+  {
+   "date": "2026-08-03",
+   "hash": "d1ac0b58",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): migrate consumer experience to native Swift",
+   "pr": null
+  },
+  {
+   "date": "2026-08-03",
+   "hash": "e3b24597",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): native studio home and iOS share upload extension",
+   "pr": null
+  },
+  {
+   "date": "2026-08-04",
+   "hash": "4afb3daf",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add gallery push notifications",
+   "pr": null
+  },
+  {
+   "date": "2026-08-04",
+   "hash": "f6c3d963",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): support Live Photo pair uploads",
+   "pr": null
+  },
+  {
+   "date": "2026-08-04",
+   "hash": "4297523a",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): restore iMessage-style comment sending",
+   "pr": null
+  },
+  {
+   "date": "2026-08-04",
+   "hash": "b4acd117",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add App Store authentication and account deletion (#253)",
+   "pr": 253
+  },
+  {
+   "date": "2026-08-04",
+   "hash": "1211c4ba",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add gallery and Explore search",
+   "pr": null
+  },
+  {
+   "date": "2026-08-05",
+   "hash": "a2adf22f",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): refine signed-out navigation and Lab access",
+   "pr": null
+  },
+  {
+   "date": "2026-08-06",
+   "hash": "df5cd7e7",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: remove secure proxy and add storage upload probe",
+   "pr": null
+  },
+  {
+   "date": "2026-08-06",
+   "hash": "85482cec",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: provision free managed storage for new tenants",
+   "pr": null
+  },
+  {
+   "date": "2026-08-06",
+   "hash": "32704267",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add local testing app variant",
+   "pr": null
+  },
+  {
+   "date": "2026-08-06",
+   "hash": "34cdc0d1",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): show original photo load progress pill in viewer",
+   "pr": null
+  },
+  {
+   "date": "2026-08-06",
+   "hash": "35d0e770",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): offline-first local cache (SwiftData) + manifest ETag (#256)",
+   "pr": 256
+  },
+  {
+   "date": "2026-08-06",
+   "hash": "f080dd8e",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add Pro custom domain support",
+   "pr": null
+  },
+  {
+   "date": "2026-08-07",
+   "hash": "7030bf78",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: expand root platform observability",
+   "pr": null
+  },
+  {
+   "date": "2026-08-10",
+   "hash": "8f6468c7",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): rewrite app in native Swift (#258)",
+   "pr": 258
+  },
+  {
+   "date": "2026-08-11",
+   "hash": "31002327",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): adopt iOS 26 app icon (#260)",
+   "pr": 260
+  },
+  {
+   "date": "2026-08-12",
+   "hash": "f7ab881f",
+   "type": "feat",
+   "scope": "builder",
+   "subject": "feat(builder): support avif images",
+   "pr": null
+  },
+  {
+   "date": "2026-08-13",
+   "hash": "47a1dfab",
+   "type": "feat",
+   "scope": "web",
+   "subject": "feat(web): add telemetry.vibeloft opt-out config (#262)",
+   "pr": 262
+  },
+  {
+   "date": "2026-08-13",
+   "hash": "2f9e861f",
+   "type": "feat",
+   "scope": "billing",
+   "subject": "feat(billing): App Store subscriptions with a quota-aware paywall (#261)",
+   "pr": 261
+  },
+  {
+   "date": "2026-08-18",
+   "hash": "5065b3d7",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add HIG grid developer icon for Local builds",
+   "pr": null
+  },
+  {
+   "date": "2026-08-19",
+   "hash": "45e1c998",
+   "type": "feat",
+   "scope": "billing",
+   "subject": "feat(billing): cluster gallery subscription timeline events",
+   "pr": null
+  },
+  {
+   "date": "2026-08-19",
+   "hash": "41bc492f",
+   "type": "feat",
+   "scope": "billing",
+   "subject": "feat(billing): map photo manifests to subscription previews",
+   "pr": null
+  },
+  {
+   "date": "2026-08-19",
+   "hash": "59e3049d",
+   "type": "feat",
+   "scope": "core",
+   "subject": "feat(core): return gallery cards and recent photos on subscription list",
+   "pr": null
+  },
+  {
+   "date": "2026-08-19",
+   "hash": "5b35873f",
+   "type": "feat",
+   "scope": "core",
+   "subject": "feat(core): add gallery subscription timeline endpoint",
+   "pr": null
+  },
+  {
+   "date": "2026-08-19",
+   "hash": "0b68d481",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add explore segment policy and subscription payloads",
+   "pr": null
+  },
+  {
+   "date": "2026-08-19",
+   "hash": "d742cd9d",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): restyle explore cards as photo strips",
+   "pr": null
+  },
+  {
+   "date": "2026-08-19",
+   "hash": "3a505e90",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add subscription and timeline stores",
+   "pr": null
+  },
+  {
+   "date": "2026-08-19",
+   "hash": "801d8b5d",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): split explore into timeline, following, and directory",
+   "pr": null
+  },
+  {
+   "date": "2026-08-19",
+   "hash": "a2679058",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): localize explore subscription segments",
+   "pr": null
+  },
+  {
+   "date": "2026-08-21",
+   "hash": "c6cc5029",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): rebuild explore rail with liquid glass segmented control",
+   "pr": null
+  },
+  {
+   "date": "2026-08-21",
+   "hash": "ffacecb1",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): bundle login showcase photos and move sign-in to footer",
+   "pr": null
+  },
+  {
+   "date": "2026-08-23",
+   "hash": "da88f388",
+   "type": "feat",
+   "scope": "builder,viewer",
+   "subject": "feat(builder,viewer): add XMP metadata extraction and region overlays (#263)",
+   "pr": 263
+  },
+  {
+   "date": "2026-08-23",
+   "hash": "de9cb98c",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add directory photo preview and move sign-in to nav",
+   "pr": null
+  },
+  {
+   "date": "2026-08-18",
+   "hash": "47d01f90",
+   "type": "feat",
+   "scope": "web",
+   "subject": "feat(web): add telemetry.vibeloft opt-out for VibeLoft script",
+   "pr": null
+  },
+  {
+   "date": "2026-08-28",
+   "hash": "8c05b1ac",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: prepare App Store paid plans",
+   "pr": null
+  },
+  {
+   "date": "2026-08-28",
+   "hash": "3bf748da",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: add TestFlight App Store prompt and apple-app-site-association",
+   "pr": null
+  },
+  {
+   "date": "2026-08-29",
+   "hash": "84036288",
+   "type": "feat",
+   "scope": "site",
+   "subject": "feat(site): surface App Store and refresh landing demo photos",
+   "pr": null
+  },
+  {
+   "date": "2026-08-29",
+   "hash": "1b8eaa66",
+   "type": "feat",
+   "scope": "",
+   "subject": "feat: open tenant homepage and photo permalinks in the iOS app",
+   "pr": null
+  },
+  {
+   "date": "2026-08-29",
+   "hash": "85607a42",
+   "type": "feat",
+   "scope": "super-admin",
+   "subject": "feat(super-admin): two-phase account cleanup for dormant and low-cont… (#273)",
+   "pr": 273
+  },
+  {
+   "date": "2026-08-29",
+   "hash": "e8802055",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): sync Home from a rebuildable tenant photo replica",
+   "pr": null
+  },
+  {
+   "date": "2026-09-01",
+   "hash": "20231e13",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): complete first-run workspace setup before opening tabs",
+   "pr": null
+  },
+  {
+   "date": "2026-09-01",
+   "hash": "2840fed5",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): bind and manage custom domains in onboarding and Studio",
+   "pr": null
+  },
+  {
+   "date": "2026-09-02",
+   "hash": "8b53ad34",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): gallery header, detail owner actions, daily photo widget (#275)",
+   "pr": 275
+  },
+  {
+   "date": "2026-09-03",
+   "hash": "6f6b4f62",
+   "type": "feat",
+   "scope": "site",
+   "subject": "feat(site): add bilingual support and legal compliance updates",
+   "pr": null
+  },
+  {
+   "date": "2026-09-03",
+   "hash": "592aba93",
+   "type": "feat",
+   "scope": "site",
+   "subject": "feat(site): redesign landing page with ambient hero and bento grid",
+   "pr": null
+  },
+  {
+   "date": "2026-09-06",
+   "hash": "bb253b79",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): open photo locations in Maps",
+   "pr": null
+  },
+  {
+   "date": "2026-09-08",
+   "hash": "8f7c9a81",
+   "type": "feat",
+   "scope": "mobile,be",
+   "subject": "feat(mobile,be): gallery communication notifications (#278)",
+   "pr": 278
+  },
+  {
+   "date": "2026-09-08",
+   "hash": "215576e7",
+   "type": "feat",
+   "scope": "webgl-viewer",
+   "subject": "feat(webgl-viewer): add WebGPU HDR viewer with JPEG gain maps",
+   "pr": null
+  },
+  {
+   "date": "2026-09-08",
+   "hash": "a3db486b",
+   "type": "feat",
+   "scope": "webgl-viewer",
+   "subject": "feat(webgl-viewer): cycle double-tap through fit, fill and 100% (#280)",
+   "pr": 280
+  },
+  {
+   "date": "2026-09-17",
+   "hash": "ad4b4e23",
+   "type": "feat",
+   "scope": "mobile",
+   "subject": "feat(mobile): add Explore header search that replaces the segment",
+   "pr": null
+  },
+  {
+   "date": "2026-09-26",
+   "hash": "e99ead71",
+   "type": "feat",
+   "scope": "promo",
+   "subject": "feat(promo): add web gallery promo video pipeline",
+   "pr": null
+  }
+ ],
+ "reverts": [
+  {
+   "date": "2025-08-04",
+   "hash": "001506ee",
+   "subject": "Revert \"feat: auto categoried by camera & lens (#72)\""
+  },
+  {
+   "date": "2025-09-21",
+   "hash": "d98049de",
+   "subject": "Revert \"perf: image webgl perf\""
+  },
+  {
+   "date": "2026-08-18",
+   "hash": "5afc5eec",
+   "subject": "Revert \"feat(web): add telemetry.vibeloft opt-out config (#262)\""
+  }
+ ]
+}

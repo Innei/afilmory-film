@@ -1,0 +1,54 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>AF - Character Sheet</title>
+<style>body{margin:0;background:#1f1d1b;display:grid;place-items:center;min-height:100vh}canvas{max-width:100vw;max-height:100vh}</style>
+<canvas id="c"></canvas>
+<script src="core.js"></script><script src="studio.js"></script><script src="cels.js"></script><script src="materials.js"></script>
+<script src="af-cast.js"></script>
+<script>
+'use strict';
+function label(c, t, x, y, col = AFC.lead) { c.save(); c.font = `700 22px ${AF_FONT}`; c.fillStyle = col; c.textAlign = 'center'; c.fillText(t, x, y); c.restore(); }
+function heading(c, t, y) { c.save(); c.font = `700 26px ${AF_FONT}`; c.fillStyle = AFC.pencil; c.fillText(t, 40, y); c.restore(); }
+function sheet(c) {
+  paper(c, AFC.paper, null, 87);
+  heading(c, 'Expressions  (pencil, the draft days)', 44);
+  const row1 = [
+    ['Curious', afPose({gx: .5})],
+    ['Look back', afPose({gx: -.9, turn: .1, lean: -.05})],
+    ['Starry-eyed', afPose({spark: 1, pupil: 1.2, gy: -.3, brow: .6, mouth: .4})],
+    ['Happy', afPose({mood: 'happy', smile: 1, brow: .4, lean: .04})],
+    ['Skeptical', afPose({lid: .45, lidTilt: .6, gx: .5, browTilt: .7, smile: -.3})],
+    ['Surprised', afPose({eyeS: 1.15, pupil: .6, brow: 1, button: 1, mouth: 1, squash: 1.05})],
+    ['Dizzy', afPose({mood: 'dizzy', lean: -.14, squash: .92, smile: -.6})],
+    ['Sleepy', afPose({lid: .55, gy: .4, brow: -.4, smile: 0, squash: .96, lean: .05})],
+  ];
+  row1.forEach(([t, p], i) => { const x = 150 + i * 232; drawAF(c, p, {x, y: 300, scale: .95, look: 'pencil'}); label(c, t, x, 336); });
+
+  heading(c, 'Actions  (ink, black & white)', 392);
+  const row2 = [
+    ['Walk: contact', afPose({fa: -40, fb: 36, lean: .06, gx: .6})],
+    ['Walk: down', afPose({fa: -18, fb: 14, squash: .94, lean: .08, gx: .6})],
+    ['Walk: passing', afPose({fa: -4, fb: 6, squash: 1.04, lift: 6, lean: .05, gx: .6})],
+    ['Hop: crouch', afPose({squash: .85, lean: .14, fa: -26, fb: 26, gx: .7, brow: -.3})],
+    ['Hop: air', afPose({squash: 1.1, tuck: .8, lift: 40, lean: -.05, armL: 1.2, armR: 1.2, mouth: .5, spark: .6})],
+    ['Stumble', afPose({mood: 'squeeze', lean: -.35, fa: -48, fb: 8, armL: 1.7, armR: 1.4, button: 1})],
+    ['Shoot!', afPose({mood: 'squeeze', flash: 1, button: -1, squash: .95, lock: 1})],
+    ['Focus lock', afPose({lock: 1, gx: .8, pupil: .9, smile: .8})], ['Blink', afPose({mood: 'blink', smile: .6})],
+    ['Point', afPose({armR: 2.4, gx: .9, gy: -.4, mouth: .6})],
+  ];
+  row2.forEach(([t, p], i) => { const x = 110 + i * 190; drawAF(c, p, {x, y: 648, scale: .82, look: 'ink'}); label(c, t, x, 684); });
+
+  heading(c, 'Materials, one per act  ·  keepsake  ·  size check', 740);
+  const mats = [['pencil', 'Pencil: draft'], ['ink', 'Ink: B&W film'], ['chalk', 'Blueprint: the rebuild'], ['glass', 'Liquid Glass: iOS'], ['color', 'Colour: HDR print']];
+  mats.forEach(([look, t], i) => {
+    const x = 130 + i * 230;
+    if (look === 'chalk') { c.fillStyle = AFC.navy; c.fillRect(x - 108, 770, 216, 250); }
+    if (look === 'glass') { const gr = c.createLinearGradient(x - 108, 770, x + 108, 1020); gr.addColorStop(0, '#f2b880'); gr.addColorStop(.5, '#d97a8c'); gr.addColorStop(1, '#5a6fb8'); c.fillStyle = gr; c.fillRect(x - 108, 770, 216, 250); }
+    drawAF(c, afPose({canister: look === 'pencil' ? 1 : 0, mood: look === 'color' ? 'happy' : 'open', smile: .8, gx: .4}), {x, y: 990, scale: .88, look});
+    label(c, t, x, 1052, AFC.pencil);
+  });
+  afCanister(c, 1260, 950, {look: 'pencil', scale: 1.6}); label(c, 'Film canister', 1270, 1052, AFC.pencil);
+  [[.3, '1×'], [.6, '2×'], [.9, '3×']].forEach(([s, t], i) => { const x = [1440, 1560, 1760][i]; drawAF(c, afPose({gx: .5, smile: .8}), {x, y: 1000, scale: s, look: 'ink'}); label(c, t, x, 1052, AFC.pencil); });
+}
+defineFilm({palette: {...PALETTES.pencilMinimal, paper: AFC.paper}, format: {ar: '16:9', width: 1920}, fps: 24, timeline: [{name: 'cast', dur: 1 / 24, fn: sheet}]});
+</script>
